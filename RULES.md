@@ -9,3 +9,5 @@
 - After creating a post, set its plan.json entry status to "scheduled" and add "buffer_id"; commit and push plan.json.
 - Never create, edit or delete anything not in plan.json. Never post prices, Al Falaj, Urdu, "we provide e-invoicing", mrcleaner.pk, the private office's name, or real client staff names.
 - Posting continues until Abrar says stop.
+- kind "pdf" (LinkedIn only): attach the PDF from media/ as a document post. kind "carousel" (Instagram): the entry carries "assets" (2–10 images, in order) → one post with all of them, metadata.instagram {type: "post", shouldShareToFeed: true}.
+- Look 2 (from 16 Nov): assets under media/look2/ — Flow scenes with our real screens, number cards, Arabic day on Saturdays, pillars by weekday (Mon tip · Tue client story · Wed product screen · Thu industry · Fri behind the build · Sat Arabic · Sun proof number). People in the scenes are illustrative and are never described as clients or staff.
