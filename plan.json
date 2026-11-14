@@ -120,29 +120,32 @@
     {
       "date": "2026-11-17",
       "channel": "instagram",
-      "status": "todo",
+      "status": "scheduled",
       "asset": "look3/ad2-phone-checkin.jpg",
       "kind": "image",
       "title": "Site attendance, checked in from the gate.",
-      "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves — payroll starts from the truth, not from memory.\n\ndemo.global-link.ae\n\n#GlobalLink #AbuDhabi #construction #MEP #attendance #payroll #UAE"
+      "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves — payroll starts from the truth, not from memory.\n\ndemo.global-link.ae\n\n#GlobalLink #AbuDhabi #construction #MEP #attendance #payroll #UAE",
+      "buffer_id": "6af7f4b04b28296eb138e781"
     },
     {
       "date": "2026-11-17",
       "channel": "linkedin",
-      "status": "todo",
+      "status": "scheduled",
       "asset": "look3/ad8-private-office.jpg",
       "kind": "image",
       "title": "Several companies. One family. One screen for all of it.",
-      "text": "Companies, leases, cheques, payroll and VAT returns for every entity — private, on your own server, in English and Arabic.\n\nWe build it, install it where you choose, and it stays yours. Ask for a private demo via global-link.ae\n\n#familyoffice #UAE #AbuDhabi #software"
+      "text": "Companies, leases, cheques, payroll and VAT returns for every entity — private, on your own server, in English and Arabic.\n\nWe build it, install it where you choose, and it stays yours. Ask for a private demo via global-link.ae\n\n#familyoffice #UAE #AbuDhabi #software",
+      "buffer_id": "6af7f4bad8bd2962e40c2b4e"
     },
     {
       "date": "2026-11-17",
       "channel": "tiktok",
-      "status": "todo",
+      "status": "scheduled",
       "asset": "look3/v5-qms-vo.mp4",
       "kind": "video",
       "title": "Your ISO 9001 manual lives in a Word file. Nobody reads it.",
-      "text": "Daily reports from the site, peer review, PIN release, QR on every PDF. demo.global-link.ae/qms #ISO9001 #QMS #UAE #GlobalLink #audit"
+      "text": "Daily reports from the site, peer review, PIN release, QR on every PDF. demo.global-link.ae/qms #ISO9001 #QMS #UAE #GlobalLink #audit",
+      "buffer_id": "6af7f4c54b28296eb138eb97"
     },
     {
       "date": "2026-11-18",
