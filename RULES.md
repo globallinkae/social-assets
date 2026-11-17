@@ -1,7 +1,7 @@
 # Global Link social assets — rules for the automatic scheduler
 
 - Channels (Buffer org 6aeb932a20f16df4a027d5db, timezone Asia/Dubai): Instagram 6aec22f9e29c69a1716b286c · LinkedIn 6aec237be29c69a1716b2bb7 · TikTok 6aec2410e29c69a1716b2f98.
-- One post per channel per day at 09:00 Asia/Dubai (dueAt "YYYY-MM-DDT09:00:00+04:00", mode customScheduled, schedulingType automatic).
+- One post per channel per day at 09:00 Asia/Dubai (dueAt "YYYY-MM-DDT09:00:00+04:00", mode customScheduled, schedulingType automatic). If an entry has a "time" field (e.g. "08:00"), use that time instead of 09:00.
 - Different content per channel on the same day. TikTok: video only, max 5 hashtags. Every video must contain music (all files in media/ do).
 - Buffer free plan: max 10 scheduled posts at a time. Schedule only entries whose date is within the next 3 days, oldest first, and stop when the scheduled count reaches 10.
 - Asset URL = https://raw.githubusercontent.com/globallinkae/social-assets/main/media/<asset>.
@@ -12,3 +12,5 @@
 - kind "pdf" (LinkedIn only): attach the PDF from media/ as a document post. kind "carousel" (Instagram): the entry carries "assets" (2–10 images, in order) → one post with all of them, metadata.instagram {type: "post", shouldShareToFeed: true}.
 - Look 2 (from 16 Nov): assets under media/look2/ — Flow scenes with our real screens, number cards, Arabic day on Saturdays, pillars by weekday (Mon tip · Tue client story · Wed product screen · Thu industry · Fri behind the build · Sat Arabic · Sun proof number). People in the scenes are illustrative and are never described as clients or staff.
 - Look 3 (from 16 Nov, replaces Look 2 images and reels): assets under media/look3/. Images = AI background scene (no devices) + phone/tablet/laptop drawn in code with a real portal screenshot inside; videos = 18–27 s voice-over reels (TTS voice + music in the file, animated captions, real screens), no people talking on camera. People in scenes are illustrative only and are never described as clients or staff. Look 2 number cards, Arabic cards and the ISO carousel/PDF stay in rotation.
+
+- Eid Al Etihad 55 campaign (26 Nov – 10 Dec 2026, entries with "campaign": "eid55", approved by Abrar 18 Nov): assets under media/eid55/. 30 Nov (Commemoration Day) and 2 Dec are remembrance/greeting only — no offers. No posts on 29 Nov and 3 Dec. Never add the UAE flag, national emblem, official Eid Al Etihad logo, images of Rulers, or AI images of national symbols to any post.
