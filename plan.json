@@ -240,29 +240,32 @@
   {
    "date": "2026-11-21",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "look3/ad10-arabic-iso.jpg",
    "kind": "image",
    "title": "النظام نفسه — بالعربية.",
-   "text": "نفس البوابة لفريقك بالعربية والإنجليزية بضغطة واحدة: تقارير يومية، مراجعة واعتماد، ورمز QR على كل ملف PDF.\n\nجرّب العرض التجريبي: demo.global-link.ae/qms\n\n#جلوبال_لينك #أبوظبي #الإمارات #ISO9001 #برمجيات #GlobalLink #UAE"
+   "text": "نفس البوابة لفريقك بالعربية والإنجليزية بضغطة واحدة: تقارير يومية، مراجعة واعتماد، ورمز QR على كل ملف PDF.\n\nجرّب العرض التجريبي: demo.global-link.ae/qms\n\n#جلوبال_لينك #أبوظبي #الإمارات #ISO9001 #برمجيات #GlobalLink #UAE",
+   "buffer_id": "6afd3aaf93fa11d37d0cf1cf"
   },
   {
    "date": "2026-11-21",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "look2/a2-shipyard-ar.jpg",
    "kind": "image",
    "title": "التقرير اليومي، يُرفع من الحوض.",
-   "text": "التقرير اليومي، يُرفع من الحوض.\n\nدليل الجودة ISO 9001 كنظام: يُكتب على الهاتف في حوض بناء السفن، يراجعه زميل، يُصدر برمز PIN، ويُطبع على ترويسة الشركة مع رمز QR للتحقق.\n\n37 نموذجاً · مراجعة نظير 100٪ · 59 تقريراً. نسخة حية ببيانات نموذجية: demo.global-link.ae/qms"
+   "text": "التقرير اليومي، يُرفع من الحوض.\n\nدليل الجودة ISO 9001 كنظام: يُكتب على الهاتف في حوض بناء السفن، يراجعه زميل، يُصدر برمز PIN، ويُطبع على ترويسة الشركة مع رمز QR للتحقق.\n\n37 نموذجاً · مراجعة نظير 100٪ · 59 تقريراً. نسخة حية ببيانات نموذجية: demo.global-link.ae/qms",
+   "buffer_id": "6afd3abbf38e9cc54867cf22"
   },
   {
    "date": "2026-11-21",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "look3/v9-arabic-hr-vo.mp4",
    "kind": "video",
    "title": "ما زالت الرواتب على جداول إكسل؟",
-   "text": "الحضور، الإجازات، قسائم الرواتب وملف WPS — في مكان واحد. demo.global-link.ae #الإمارات #الرواتب #أبوظبي #GlobalLink #UAE"
+   "text": "الحضور، الإجازات، قسائم الرواتب وملف WPS — في مكان واحد. demo.global-link.ae #الإمارات #الرواتب #أبوظبي #GlobalLink #UAE",
+   "buffer_id": "6afd3ac59f3765f6ab34fd7a"
   },
   {
    "date": "2026-11-22",
