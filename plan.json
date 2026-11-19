@@ -270,7 +270,8 @@
   {
    "date": "2026-11-22",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
+   "buffer_id": "6afe8c2f59eff0b616e303b6",
    "asset": "look2/n2-100.jpg",
    "kind": "image",
    "title": "100 % of reports peer reviewed before release",
@@ -279,7 +280,8 @@
   {
    "date": "2026-11-22",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
+   "buffer_id": "6afe8c3846636f319e8e8421",
    "asset": "look3/ad11-wps-phone.jpg",
    "kind": "image",
    "title": "Salaries transferred. Payslip on the phone.",
@@ -288,7 +290,8 @@
   {
    "date": "2026-11-22",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
+   "buffer_id": "6afe8c4846636f319e8e874a",
    "asset": "look3/v4-hr-vo.mp4",
    "kind": "video",
    "title": "Your company. Its own portal.",
