@@ -14,3 +14,7 @@
 - Look 3 (from 16 Nov, replaces Look 2 images and reels): assets under media/look3/. Images = AI background scene (no devices) + phone/tablet/laptop drawn in code with a real portal screenshot inside; videos = 18–27 s voice-over reels (TTS voice + music in the file, animated captions, real screens), no people talking on camera. People in scenes are illustrative only and are never described as clients or staff. Look 2 number cards, Arabic cards and the ISO carousel/PDF stay in rotation.
 
 - Eid Al Etihad 55 campaign (26 Nov – 10 Dec 2026, entries with "campaign": "eid55", approved by Abrar 18 Nov): assets under media/eid55/. 30 Nov (Commemoration Day) and 2 Dec are remembrance/greeting only — no offers. No posts on 29 Nov and 3 Dec. Never add the UAE flag, national emblem, official Eid Al Etihad logo, images of Rulers, or AI images of national symbols to any post.
+
+## Video quality (21 Nov 2026)
+- Never record reels in real time (Playwright recordVideo stutters). Render frame by frame at 30 fps with tools/render_det.js (HTML reels) or tools/smoothzoom.py (still + Ken Burns), then mux the audio.
+- Frame 1 is the TikTok cover: it must be a clear title frame — no fade from white or black at the start.
