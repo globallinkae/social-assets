@@ -360,7 +360,7 @@
   {
    "date": "2026-11-25",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "look2/c1-iso-1.jpg",
    "kind": "carousel",
    "title": "Your ISO 9001 manual as a system: 5 things that change",
@@ -373,25 +373,28 @@
     "look2/c1-iso-5.jpg",
     "look2/c1-iso-6.jpg",
     "look2/c1-iso-7.jpg"
-   ]
+   ],
+   "buffer_id": "6b0280aac72676f5e906fa88"
   },
   {
    "date": "2026-11-25",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "look3/ad2-phone-checkin.jpg",
    "kind": "image",
    "title": "Site attendance, checked in from the gate.",
-   "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves, and payroll starts from the truth, not from memory.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #attendance #payroll #UAE"
+   "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves, and payroll starts from the truth, not from memory.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #attendance #payroll #UAE",
+   "buffer_id": "6b0280afd5eabfb8cc85a0d9"
   },
   {
    "date": "2026-11-25",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "look3/v7-nursery-vo.mp4",
    "kind": "video",
    "title": "The class board, on the room’s tablet.",
-   "text": "Attendance, meals, naps, notes — parents see it before pick-up. demo.global-link.ae #nursery #EYFS #parents #UAE #GlobalLink"
+   "text": "Attendance, meals, naps, notes — parents see it before pick-up. demo.global-link.ae #nursery #EYFS #parents #UAE #GlobalLink",
+   "buffer_id": "6b0280b4cc364169c12e027d"
   },
   {
    "date": "2026-11-26",
