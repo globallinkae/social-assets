@@ -399,30 +399,33 @@
   {
    "date": "2026-11-26",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p1-launch.jpg",
    "kind": "image",
    "text": "Celebrating 55 years of the Union with an offer for UAE businesses: 20% off any website or business portal booked by 10 December.\n\nArabic and English on every screen, delivered on your own hosting, with the source code.\n\nعرض عيد الاتحاد: خصم 20% على المواقع الإلكترونية وأنظمة الأعمال حتى 10 ديسمبر\n\nLive demos: demo.global-link.ae\n\n#EidAlEtihad #عيد_الاتحاد #UAE #AbuDhabi #GlobalLink",
-   "campaign": "eid55"
+   "campaign": "eid55",
+   "buffer_id": "6b03d20fd5eabfb8cc0b056d"
   },
   {
    "date": "2026-11-26",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p1-launch.jpg",
    "kind": "image",
    "text": "As the UAE marks 55 years since the Union, we're offering 20% off websites and business portals booked between 26 November and 10 December.\n\nHR and payroll, operations, ISO 9001 and nursery portals, and bilingual Arabic and English company websites. All delivered on your own hosting, with the source code and a training call.\n\nSee them live: demo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #smallbusiness",
-   "campaign": "eid55"
+   "campaign": "eid55",
+   "buffer_id": "6b03d214d5eabfb8cc0b0785"
   },
   {
    "date": "2026-11-26",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p1-launch-tiktok.mp4",
    "kind": "video",
    "title": "Our Eid Al Etihad offer",
    "text": "55 years of the Union. 20% off websites and business portals until 10 Dec. demo.global-link.ae #EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55"
+   "campaign": "eid55",
+   "buffer_id": "6b03d21a846b0ee907e7d7f9"
   },
   {
    "date": "2026-11-28",
