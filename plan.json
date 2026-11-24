@@ -389,12 +389,13 @@
   {
    "date": "2026-11-25",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "batch2/w1-website-vo.mp4",
    "kind": "video",
    "title": "Your website still says 2019?",
    "text": "Arabic and English, built for the phone, enquiries straight to you. global-link.ae #website #UAE #AbuDhabi #smallbusiness #GlobalLink",
-   "batch": "batch2"
+   "batch": "batch2",
+   "buffer_id": "6b056235637ab97445e1d625"
   },
   {
    "date": "2026-11-26",
@@ -621,32 +622,35 @@
   {
    "date": "2026-11-27",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "batch2/ad13-web-boutique.jpg",
    "kind": "image",
    "title": "Customers google you first.",
    "text": "Customers check you online before they ever call. We build bilingual company websites — Arabic and English, phone-first, with enquiry forms that reach you directly. Designed, written and hosted on your own account.\n\nSee our work: global-link.ae\n\n#website #webdesign #UAE #AbuDhabi #smallbusiness #GlobalLink",
-   "batch": "batch2"
+   "batch": "batch2",
+   "buffer_id": "6b05626b637ab97445e1f6e8"
   },
   {
    "date": "2026-11-27",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "batch2/ad14-vat-return.jpg",
    "kind": "image",
    "title": "VAT return due Thursday? Ready by Monday.",
    "text": "VAT returns shouldn’t be a last-week scramble. When sales, purchases and expenses are posted as they happen, the return builds itself — and every figure links back to the invoice behind it.\n\nBuilt for UAE businesses, in AED, in Arabic and English. Sample-data demo: demo.global-link.ae\n\n#VAT #UAE #accounting #finance #AbuDhabi",
-   "batch": "batch2"
+   "batch": "batch2",
+   "buffer_id": "6b05627168504a8e3a1b91eb"
   },
   {
    "date": "2026-11-27",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "batch2/w2-office-vo.mp4",
    "kind": "video",
    "title": "Six companies. Sixty cheques.",
    "text": "The whole family office on one screen — companies, leases, cheques and VAT. Private, on your own server. global-link.ae #familyoffice #UAE #AbuDhabi #realestate #GlobalLink",
-   "batch": "batch2"
+   "batch": "batch2",
+   "buffer_id": "6b05626468504a8e3a1b8cce"
   },
   {
    "date": "2026-12-05",
