@@ -23,3 +23,7 @@
 - Never post the same image, video, carousel or caption twice on the same platform. Before creating any Buffer post, check that the asset has never been sent or scheduled on that channel (Buffer history + plan.json). If it has, do NOT post it: set status "skip-repeat" and report the gap.
 - Only entries with status "todo" are posted. "skip-repeat" entries are never posted.
 - Every new batch must be new content (new images/videos/text), not re-uploads or re-crops of old ones.
+
+## Arabic check (Abrar, 24 Nov 2026)
+- Abrar cannot ask Mr Hamdan often: Claude re-checks all Arabic text itself (grammar, natural wording, RTL rendering, numerals) before scheduling, and publishes without waiting for a native check.
+- AI photos must never show fake Arabic (or any) lettering — clean or replace them before use.
