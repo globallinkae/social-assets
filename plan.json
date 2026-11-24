@@ -389,12 +389,13 @@
   {
    "date": "2026-11-25",
    "channel": "tiktok",
-   "status": "scheduled",
+   "status": "skip-repeat",
    "asset": "look3/v7-nursery-vo.mp4",
    "kind": "video",
    "title": "The class board, on the room’s tablet.",
    "text": "Attendance, meals, naps, notes — parents see it before pick-up. demo.global-link.ae #nursery #EYFS #parents #UAE #GlobalLink",
-   "buffer_id": "6b0280b4cc364169c12e027d"
+   "buffer_id": "6b0280b4cc364169c12e027d",
+   "note": "repeat on same platform — moved to Buffer draft 24 Nov (Abrar: never repeat content); replace with new content"
   },
   {
    "date": "2026-11-26",
@@ -621,91 +622,100 @@
   {
    "date": "2026-11-27",
    "channel": "instagram",
-   "status": "scheduled",
+   "status": "skip-repeat",
    "asset": "look2/n2-100.jpg",
    "kind": "image",
    "title": "100 % of reports peer reviewed before release",
    "text": "100 % of reports peer reviewed before release.\n\nA marine consultancy’s ISO 9001 manual became its system: 37 forms, each written, checked by a second person and released with a PIN. The auditor sees every step.\n\n#ISO9001 #quality #UAE #AbuDhabi #marine",
-   "buffer_id": "6b052388060d9b64824d11d2"
+   "buffer_id": "6b052388060d9b64824d11d2",
+   "note": "repeat on same platform — moved to Buffer draft 24 Nov (Abrar: never repeat content); replace with new content"
   },
   {
    "date": "2026-11-27",
    "channel": "linkedin",
-   "status": "scheduled",
+   "status": "skip-repeat",
    "asset": "look3/ad11-wps-phone.jpg",
    "kind": "image",
    "title": "Salaries transferred. Payslip on the phone.",
    "text": "WPS file generated, bank paid, every employee notified — no printing, no queue at HR.\n\nOne portal for 50–650 employees, in English and Arabic. demo.global-link.ae\n\n#payroll #WPS #HR #UAE #AbuDhabi",
-   "buffer_id": "6b05238e286252d738373146"
+   "buffer_id": "6b05238e286252d738373146",
+   "note": "repeat on same platform — moved to Buffer draft 24 Nov (Abrar: never repeat content); replace with new content"
   },
   {
    "date": "2026-11-27",
    "channel": "tiktok",
-   "status": "scheduled",
+   "status": "skip-repeat",
    "asset": "look3/v4-hr-vo.mp4",
    "kind": "video",
    "title": "Your company. Its own portal.",
    "text": "Attendance, leave, payslips, WPS — one place, English & Arabic. demo.global-link.ae #HR #payroll #UAE #GlobalLink #WPS",
-   "buffer_id": "6b05239531056e7b6e785efe"
+   "buffer_id": "6b05239531056e7b6e785efe",
+   "note": "repeat on same platform — moved to Buffer draft 24 Nov (Abrar: never repeat content); replace with new content"
   },
   {
    "date": "2026-12-05",
    "channel": "instagram",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/ad9-nursery-parents.jpg",
    "kind": "image",
    "title": "Parents asking “how was her day?” Show them. Daily.",
-   "text": "Daily records, photos, policies signed on the phone, attendance and fees — one app for staff, one for parents.\n\ndemo.global-link.ae\n\n#GlobalLink #nursery #EYFS #parents #AbuDhabi #UAE #childcare"
+   "text": "Daily records, photos, policies signed on the phone, attendance and fees — one app for staff, one for parents.\n\ndemo.global-link.ae\n\n#GlobalLink #nursery #EYFS #parents #AbuDhabi #UAE #childcare",
+   "note": "repeat of 2026-11-23 on instagram — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-05",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/ad1-3d-payroll.jpg",
    "kind": "image",
    "title": "Built your payroll for 20 staff. Now you’re at 200?",
-   "text": "The spreadsheet that worked at 20 people breaks at 200. One system for people, payroll and invoices that grows with the team — Arabic and English, WPS-ready, and yours to own.\n\nSample-data demo: demo.global-link.ae\n\n#payroll #HR #scaleup #UAE #AbuDhabi"
+   "text": "The spreadsheet that worked at 20 people breaks at 200. One system for people, payroll and invoices that grows with the team — Arabic and English, WPS-ready, and yours to own.\n\nSample-data demo: demo.global-link.ae\n\n#payroll #HR #scaleup #UAE #AbuDhabi",
+   "note": "repeat of 2026-11-23 on linkedin — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-05",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/v5-qms-vo.mp4",
    "kind": "video",
    "title": "Auditors love it.",
-   "text": "Peer reviewed, released with a PIN, QR on every PDF. demo.global-link.ae/qms #ISO9001 #audit #quality #UAE #GlobalLink"
+   "text": "Peer reviewed, released with a PIN, QR on every PDF. demo.global-link.ae/qms #ISO9001 #audit #quality #UAE #GlobalLink",
+   "note": "repeat of 2026-11-17 on tiktok — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-06",
    "channel": "instagram",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/ad7-trading-stock.jpg",
    "kind": "image",
    "title": "Stock in Excel. Quotes in Word? One system for trading.",
-   "text": "Products, stock, quotes, installation jobs and AMC renewals — from the warehouse floor to the invoice.\n\ndemo.global-link.ae\n\n#GlobalLink #trading #inventory #LED #UAE #AbuDhabi #Dubai"
+   "text": "Products, stock, quotes, installation jobs and AMC renewals — from the warehouse floor to the invoice.\n\ndemo.global-link.ae\n\n#GlobalLink #trading #inventory #LED #UAE #AbuDhabi #Dubai",
+   "note": "repeat of 2026-11-24 on instagram — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-06",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look2/n3-2.jpg",
    "kind": "image",
    "title": "2 languages on every screen and every PDF.",
-   "text": "2 languages on every screen and every PDF.\n\nArabic and English are not a translation added later. Every screen, payslip, invoice, quality form and notification is built right-to-left ready from day one, because that is how businesses in the UAE actually work.\n\nTry it in Arabic: demo.global-link.ae"
+   "text": "2 languages on every screen and every PDF.\n\nArabic and English are not a translation added later. Every screen, payslip, invoice, quality form and notification is built right-to-left ready from day one, because that is how businesses in the UAE actually work.\n\nTry it in Arabic: demo.global-link.ae",
+   "note": "repeat of 2026-11-24 on linkedin — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-06",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/v6-field-vo.mp4",
    "kind": "video",
    "title": "The office sees it live.",
-   "text": "Jobs, on the way, paid, invoiced — from the team lead’s pocket. demo.global-link.ae #fieldservice #cleaning #UAE #GlobalLink #business"
+   "text": "Jobs, on the way, paid, invoiced — from the team lead’s pocket. demo.global-link.ae #fieldservice #cleaning #UAE #GlobalLink #business",
+   "note": "repeat of 2026-11-18 on tiktok — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-08",
    "channel": "instagram",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look2/c1-iso-1.jpg",
    "kind": "carousel",
    "title": "Your ISO 9001 manual as a system: 5 things that change",
@@ -718,52 +728,58 @@
     "look2/c1-iso-5.jpg",
     "look2/c1-iso-6.jpg",
     "look2/c1-iso-7.jpg"
-   ]
+   ],
+   "note": "repeat of 2026-11-25 on instagram — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-08",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/ad2-phone-checkin.jpg",
    "kind": "image",
    "title": "Site attendance, checked in from the gate.",
-   "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves, and payroll starts from the truth, not from memory.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #attendance #payroll #UAE"
+   "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves, and payroll starts from the truth, not from memory.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #attendance #payroll #UAE",
+   "note": "repeat of 2026-11-25 on linkedin — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-08",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/v7-nursery-vo.mp4",
    "kind": "video",
    "title": "The class board, on the room’s tablet.",
-   "text": "Attendance, meals, naps, notes — parents see it before pick-up. demo.global-link.ae #nursery #EYFS #parents #UAE #GlobalLink"
+   "text": "Attendance, meals, naps, notes — parents see it before pick-up. demo.global-link.ae #nursery #EYFS #parents #UAE #GlobalLink",
+   "note": "repeat of 2026-11-19 on tiktok — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-09",
    "channel": "instagram",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/ad10-arabic-iso.jpg",
    "kind": "image",
    "title": "النظام نفسه — بالعربية.",
-   "text": "نفس البوابة لفريقك بالعربية والإنجليزية بضغطة واحدة: تقارير يومية، مراجعة واعتماد، ورمز QR على كل ملف PDF.\n\nجرّب العرض التجريبي: demo.global-link.ae/qms\n\n#جلوبال_لينك #أبوظبي #الإمارات #ISO9001 #برمجيات #GlobalLink #UAE"
+   "text": "نفس البوابة لفريقك بالعربية والإنجليزية بضغطة واحدة: تقارير يومية، مراجعة واعتماد، ورمز QR على كل ملف PDF.\n\nجرّب العرض التجريبي: demo.global-link.ae/qms\n\n#جلوبال_لينك #أبوظبي #الإمارات #ISO9001 #برمجيات #GlobalLink #UAE",
+   "note": "repeat of 2026-11-21 on instagram — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-09",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look2/a2-shipyard-ar.jpg",
    "kind": "image",
    "title": "التقرير اليومي، يُرفع من الحوض.",
-   "text": "التقرير اليومي، يُرفع من الحوض.\n\nدليل الجودة ISO 9001 كنظام: يُكتب على الهاتف في حوض بناء السفن، يراجعه زميل، يُصدر برمز PIN، ويُطبع على ترويسة الشركة مع رمز QR للتحقق.\n\n37 نموذجاً · مراجعة نظير 100٪ · 59 تقريراً. نسخة حية ببيانات نموذجية: demo.global-link.ae/qms"
+   "text": "التقرير اليومي، يُرفع من الحوض.\n\nدليل الجودة ISO 9001 كنظام: يُكتب على الهاتف في حوض بناء السفن، يراجعه زميل، يُصدر برمز PIN، ويُطبع على ترويسة الشركة مع رمز QR للتحقق.\n\n37 نموذجاً · مراجعة نظير 100٪ · 59 تقريراً. نسخة حية ببيانات نموذجية: demo.global-link.ae/qms",
+   "note": "repeat of 2026-11-21 on linkedin — Abrar 24 Nov: never repeat content; replace with new content"
   },
   {
    "date": "2026-12-09",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "skip-repeat",
    "asset": "look3/v9-arabic-hr-vo.mp4",
    "kind": "video",
    "title": "ما زالت الرواتب على جداول إكسل؟",
-   "text": "الحضور، الإجازات، قسائم الرواتب وملف WPS — في مكان واحد. demo.global-link.ae #الإمارات #الرواتب #أبوظبي #GlobalLink #UAE"
+   "text": "الحضور، الإجازات، قسائم الرواتب وملف WPS — في مكان واحد. demo.global-link.ae #الإمارات #الرواتب #أبوظبي #GlobalLink #UAE",
+   "note": "repeat of 2026-11-21 on tiktok — Abrar 24 Nov: never repeat content; replace with new content"
   }
  ]
 }

@@ -18,3 +18,8 @@
 ## Video quality (21 Nov 2026)
 - Never record reels in real time (Playwright recordVideo stutters). Render frame by frame at 30 fps with tools/render_det.js (HTML reels) or tools/smoothzoom.py (still + Ken Burns), then mux the audio.
 - Frame 1 is the TikTok cover: it must be a clear title frame — no fade from white or black at the start.
+
+## No repeats — ever (Abrar, 24 Nov 2026)
+- Never post the same image, video, carousel or caption twice on the same platform. Before creating any Buffer post, check that the asset has never been sent or scheduled on that channel (Buffer history + plan.json). If it has, do NOT post it: set status "skip-repeat" and report the gap.
+- Only entries with status "todo" are posted. "skip-repeat" entries are never posted.
+- Every new batch must be new content (new images/videos/text), not re-uploads or re-crops of old ones.
