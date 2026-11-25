@@ -1,1196 +1,1199 @@
 {
- "_readme": "Global Link daily social plan. One entry per day per channel. The scheduled task schedules every entry whose date is within the next 3 days and status is 'todo', then sets status to 'scheduled' with the Buffer post id and commits. Times: 09:00 Asia/Dubai. Assets: https://raw.githubusercontent.com/globallinkae/social-assets/main/media/<file>. Rules: see RULES.md.",
- "channels": {
-  "instagram": "6aec22f9e29c69a1716b286c",
-  "linkedin": "6aec237be29c69a1716b2bb7",
-  "tiktok": "6aec2410e29c69a1716b2f98"
- },
- "posts": [
-  {
-   "date": "2026-11-13",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "buffer_id": "6af2aeb0223aa16048efdc19",
-   "asset": "2026-11/gl-business-portals.jpg",
-   "kind": "image",
-   "text": "A portal is not a website.\n\nA website tells people who you are. A portal is where your clients, suppliers or staff log in and do things: see their statements, download their documents, approve a quote, raise a request, track a job.\n\nWe build portals that sit on top of the systems a business already runs: one login, English and Arabic, PIN approvals for anything that moves money, QR-verified PDFs, and a full audit trail of who did what.\n\nThe fastest way to see whether your business needs one: pick your business type in the live demo and look at the client and staff views. demo.global-link.ae\n\n#Portals #UAE #DigitalTransformation #SMEs #CustomSoftware"
-  },
-  {
-   "date": "2026-11-13",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "buffer_id": "6af2aeb526f9e6aeeae8889d",
-   "asset": "04-demo-video.mp4",
-   "kind": "video",
-   "title": "Payroll in 4 steps",
-   "text": "Check in → timesheets → payroll → invoices. 22 seconds, one system 🚀 Try it: demo.global-link.ae #UAE #AbuDhabi #payroll #HR #smallbusiness"
-  },
-  {
-   "date": "2026-11-14",
-   "channel": "instagram",
-   "status": "scheduled",
-   "buffer_id": "6af3fff81da76fd3d2c343dd",
-   "asset": "2026-11/gl-websites.jpg",
-   "kind": "image",
-   "text": "Your website is the first meeting 🌐\n\nWe build bilingual company websites — English and Arabic on every page, fast on phones, written to bring enquiries, not just visits. A marine consultancy in Abu Dhabi runs 30 pages in two languages on ours.\n\nTypical delivery: 2–4 weeks.\n\nSee our work — link in bio.\n\n#WebsiteDesignUAE #WebDesign #AbuDhabi #UAEBusiness #SmallBusinessUAE #BilingualWebsite #GlobalLinkAE #Branding"
-  },
-  {
-   "date": "2026-11-14",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "buffer_id": "6af3fffe095081ea08b9c012",
-   "asset": "look3/v5-qms-vo.mp4",
-   "kind": "video",
-   "title": "Your ISO 9001 manual, as a working system",
-   "text": "Who we are, in 30 seconds.\n\nGlobal Link International builds business systems, staff and customer apps, bilingual websites and accounting migrations from Abu Dhabi. Licensed since 2020, projects delivered in six countries.\n\nWhat clients get on every system: English and Arabic, PIN approvals, QR-verified PDFs, an audit trail, a phone app, and ownership of the system and the data.\n\nIf your business runs on spreadsheets and WhatsApp groups, we should talk: global-link.ae\n\n#UAE #AbuDhabi #SMEs #HRTech #DigitalTransformation",
-   "note": "asset swapped in Buffer 13 Nov (look3 reel)"
-  },
-  {
-   "date": "2026-11-14",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "buffer_id": "6af400041da76fd3d2c345b6",
-   "asset": "look3/v4-hr-vo.mp4",
-   "kind": "video",
-   "title": "Still running HR & payroll on spreadsheets?",
-   "text": "650 staff. 4 apps. 3 cities. One Abu Dhabi team building it all 💼 demo.global-link.ae #UAE #AbuDhabi #business #software #techUAE",
-   "note": "asset swapped in Buffer 13 Nov (look3 reel)"
-  },
-  {
-   "date": "2026-11-15",
-   "channel": "instagram",
-   "status": "scheduled",
-   "buffer_id": "6af551c68a1a2f52b526eedf",
-   "asset": "look3/v6-field-vo.mp4",
-   "kind": "video",
-   "title": "Field teams on WhatsApp? Run it from one phone",
-   "text": "Software that runs the whole business 💡\n\nHR, payroll, projects, accounting, apps for staff and customers, bilingual websites — built in Abu Dhabi for UAE companies.\n\n30 seconds on what we do. Then see your own system in the live demo — link in bio.\n\n#UAEBusiness #AbuDhabi #BusinessSoftware #SmallBusinessUAE #PayrollUAE #HRSystem #Reels #GlobalLinkAE",
-   "note": "asset swapped in Buffer 13 Nov (look3 reel)"
-  },
-  {
-   "date": "2026-11-15",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "buffer_id": "6af551ccdf70eccdaab4f0be",
-   "asset": "2026-11/gl-process-automation.jpg",
-   "kind": "image",
-   "text": "The most expensive process in a company is the one nobody owns.\n\nThe leave request that lives in WhatsApp. The purchase that gets approved by a phone call. The invoice that waits for someone to \"check the file\".\n\nAutomation here is not robots. It is giving each of those a form, a rule and an approver, so it moves by itself and leaves a record. A PIN approval instead of a call. A document that generates itself from data already in the system. A reminder that fires before the deadline instead of after.\n\nWe start with the three processes that cost the most time and build from there.\n\nWhich process in your company has no owner today?\n\n#Automation #UAE #SMEs #Operations #DigitalTransformation"
-  },
-  {
-   "date": "2026-11-15",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "buffer_id": "6af551d597798e85b9e60f27",
-   "asset": "look3/v8-trading-vo.mp4",
-   "kind": "video",
-   "title": "Stock in Excel. Quotes in Word?",
-   "text": "Built around how your business really works ✨ Payroll, nurseries, websites, private offices — Abu Dhabi. demo.global-link.ae #UAE #AbuDhabi #business #payroll #smallbusiness",
-   "note": "asset swapped in Buffer 13 Nov (look3 reel)"
-  },
-  {
-   "date": "2026-11-16",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad1-3d-payroll.jpg",
-   "kind": "image",
-   "title": "Built your payroll for 20 staff. Now you’re at 200?",
-   "text": "One system for people, payroll and invoices that grows with your team. Arabic and English, WPS-ready, yours to own.\n\nTry it with sample data → demo.global-link.ae\n\n#GlobalLink #AbuDhabi #UAEbusiness #HRsoftware #Payroll #WPS #CustomSoftware",
-   "buffer_id": "6af6a35ac1a0010a5bfeec09"
-  },
-  {
-   "date": "2026-11-16",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look3/ad12-650-paid.jpg",
-   "kind": "image",
-   "title": "One portal. 650 people. Paid on time, every month.",
-   "text": "Attendance, timesheets, payroll and the WPS bank file for a 650-strong construction group — every month, on a portal we built, without the spreadsheet.\n\nIf month-end still means a week of Excel, see the live demo: demo.global-link.ae\n\n#payroll #WPS #UAE #construction #HRtech",
-   "buffer_id": "6af6a35aba218f32637ed98c"
-  },
-  {
-   "date": "2026-11-16",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v4-hr-vo.mp4",
-   "kind": "video",
-   "title": "Still running HR & payroll on spreadsheets?",
-   "text": "Your company, its own portal — attendance, leave, payslips, WPS. demo.global-link.ae #GlobalLink #UAE #payroll #HR #smallbusiness",
-   "buffer_id": "6af6a35cc1a0010a5bfeec4d"
-  },
-  {
-   "date": "2026-11-17",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad2-phone-checkin.jpg",
-   "kind": "image",
-   "title": "Site attendance, checked in from the gate.",
-   "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves — payroll starts from the truth, not from memory.\n\ndemo.global-link.ae\n\n#GlobalLink #AbuDhabi #construction #MEP #attendance #payroll #UAE",
-   "buffer_id": "6af7f4b04b28296eb138e781"
-  },
-  {
-   "date": "2026-11-17",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look3/ad8-private-office.jpg",
-   "kind": "image",
-   "title": "Several companies. One family. One screen for all of it.",
-   "text": "Companies, leases, cheques, payroll and VAT returns for every entity — private, on your own server, in English and Arabic.\n\nWe build it, install it where you choose, and it stays yours. Ask for a private demo via global-link.ae\n\n#familyoffice #UAE #AbuDhabi #software",
-   "buffer_id": "6af7f4bad8bd2962e40c2b4e"
-  },
-  {
-   "date": "2026-11-17",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v5-qms-vo.mp4",
-   "kind": "video",
-   "title": "Your ISO 9001 manual lives in a Word file. Nobody reads it.",
-   "text": "Daily reports from the site, peer review, PIN release, QR on every PDF. demo.global-link.ae/qms #ISO9001 #QMS #UAE #GlobalLink #audit",
-   "buffer_id": "6af7f4c54b28296eb138eb97"
-  },
-  {
-   "date": "2026-11-18",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad3-tablet-nursery.jpg",
-   "kind": "image",
-   "title": "The class board, on the room’s tablet.",
-   "text": "Attendance, meals, naps and notes in one tap — parents see the day on their phone before pick-up.\n\ndemo.global-link.ae\n\n#GlobalLink #nursery #EYFS #AbuDhabi #UAE #earlyyears #parents",
-   "buffer_id": "6af9460ce5a113497acae9fc"
-  },
-  {
-   "date": "2026-11-18",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look3/ad4-ship-qms.jpg",
-   "kind": "image",
-   "title": "Your ISO 9001 manual, as a working system.",
-   "text": "Daily reports from the site, peer review, release with a PIN and a QR code on every PDF. Auditors love it — because the evidence is the system, not a binder.\n\nLive demo with sample data: demo.global-link.ae/qms\n\n#ISO9001 #QMS #marine #AbuDhabi #quality",
-   "buffer_id": "6af94619918fe79d2ec41d9c"
-  },
-  {
-   "date": "2026-11-18",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v6-field-vo.mp4",
-   "kind": "video",
-   "title": "Your cleaning crews run on WhatsApp?",
-   "text": "Jobs, on the way, paid, invoiced — the office sees it live. demo.global-link.ae #cleaning #fieldservice #UAE #GlobalLink #smallbusiness",
-   "buffer_id": "6af94626e5a113497acaecf6"
-  },
-  {
-   "date": "2026-11-19",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad5-vat-receipts.jpg",
-   "kind": "image",
-   "title": "Receipts in a shoebox. VAT return in a panic?",
-   "text": "Invoices, expenses and VAT in one system — the return is ready before the deadline, and every number traces back to its document.\n\ndemo.global-link.ae\n\n#GlobalLink #VAT #UAE #accounting #smallbusiness #AbuDhabi #Dubai",
-   "buffer_id": "6afa97a506e1675856cc37d8"
-  },
-  {
-   "date": "2026-11-19",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look2/c1-iso-carousel-linkedin.pdf",
-   "kind": "pdf",
-   "title": "Your ISO 9001 manual as a system: 5 things that change.",
-   "text": "Your ISO 9001 manual as a system: 5 things that change.\n\n1. Every form numbered, with its revision and retention.\n2. Site reports filed from the yard, on the phone.\n3. Nothing leaves unchecked: peer review and a PIN release.\n4. The auditor sees the whole trail: NCRs, audits, CARs, management review.\n5. The PDF proves itself with a QR code.\n\nFor engineering, marine and inspection consultancies in the UAE. Live demo with five roles: demo.global-link.ae/qms",
-   "buffer_id": "6afa97af06e1675856cc3b72"
-  },
-  {
-   "date": "2026-11-19",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v7-nursery-vo.mp4",
-   "kind": "video",
-   "title": "Parents want to know how her day went.",
-   "text": "Class board, daily records, photos, policies, fees — one app for staff, one for parents. demo.global-link.ae #nursery #EYFS #UAE #GlobalLink #parents",
-   "buffer_id": "6afa97b806e1675856cc4208"
-  },
-  {
-   "date": "2026-11-20",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad6-field-cleaning.jpg",
-   "kind": "image",
-   "title": "Field teams on WhatsApp? Run it from one phone.",
-   "text": "Bookings, crews, “on the way”, payment collected — the office sees it live. For cleaning, maintenance and pest-control companies.\n\ndemo.global-link.ae\n\n#GlobalLink #cleaning #fieldservice #maintenance #UAE #AbuDhabi #smallbusiness",
-   "buffer_id": "6afbe92c3e42cd001e559770"
-  },
-  {
-   "date": "2026-11-20",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look3/ad7-trading-stock.jpg",
-   "kind": "image",
-   "title": "Stock in Excel. Quotes in Word. One system for trading.",
-   "text": "Products, stock, quotes, installation jobs and AMC renewals — from the warehouse floor to the invoice, with no re-typing.\n\nBuilt for trading and installation companies. demo.global-link.ae\n\n#trading #inventory #UAE #AbuDhabi #ERP",
-   "buffer_id": "6afbe938f83aaca8f3b0f1d9"
-  },
-  {
-   "date": "2026-11-20",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v8-trading-vo.mp4",
-   "kind": "video",
-   "title": "Stock in Excel, quotes in Word, invoices somewhere else?",
-   "text": "One system for trading — warehouse to invoice. demo.global-link.ae #trading #inventory #UAE #GlobalLink #business",
-   "buffer_id": "6afbe945797935b975e54306"
-  },
-  {
-   "date": "2026-11-21",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad10-arabic-iso.jpg",
-   "kind": "image",
-   "title": "النظام نفسه — بالعربية.",
-   "text": "نفس البوابة لفريقك بالعربية والإنجليزية بضغطة واحدة: تقارير يومية، مراجعة واعتماد، ورمز QR على كل ملف PDF.\n\nجرّب العرض التجريبي: demo.global-link.ae/qms\n\n#جلوبال_لينك #أبوظبي #الإمارات #ISO9001 #برمجيات #GlobalLink #UAE",
-   "buffer_id": "6afd3aaf93fa11d37d0cf1cf"
-  },
-  {
-   "date": "2026-11-21",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look2/a2-shipyard-ar.jpg",
-   "kind": "image",
-   "title": "التقرير اليومي، يُرفع من الحوض.",
-   "text": "التقرير اليومي، يُرفع من الحوض.\n\nدليل الجودة ISO 9001 كنظام: يُكتب على الهاتف في حوض بناء السفن، يراجعه زميل، يُصدر برمز PIN، ويُطبع على ترويسة الشركة مع رمز QR للتحقق.\n\n37 نموذجاً · مراجعة نظير 100٪ · 59 تقريراً. نسخة حية ببيانات نموذجية: demo.global-link.ae/qms",
-   "buffer_id": "6afd3abbf38e9cc54867cf22"
-  },
-  {
-   "date": "2026-11-21",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v9-arabic-hr-vo.mp4",
-   "kind": "video",
-   "title": "ما زالت الرواتب على جداول إكسل؟",
-   "text": "الحضور، الإجازات، قسائم الرواتب وملف WPS — في مكان واحد. demo.global-link.ae #الإمارات #الرواتب #أبوظبي #GlobalLink #UAE",
-   "buffer_id": "6afd3ac59f3765f6ab34fd7a"
-  },
-  {
-   "date": "2026-11-22",
-   "channel": "instagram",
-   "status": "scheduled",
-   "buffer_id": "6afe8c2f59eff0b616e303b6",
-   "asset": "look2/n2-100.jpg",
-   "kind": "image",
-   "title": "100 % of reports peer reviewed before release",
-   "text": "100 % of reports peer reviewed before release.\n\nA marine consultancy’s ISO 9001 manual became its system: 37 forms, each written, checked by a second person and released with a PIN. The auditor sees every step.\n\n#ISO9001 #quality #UAE #AbuDhabi #marine"
-  },
-  {
-   "date": "2026-11-22",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "buffer_id": "6afe8c3846636f319e8e8421",
-   "asset": "look3/ad11-wps-phone.jpg",
-   "kind": "image",
-   "title": "Salaries transferred. Payslip on the phone.",
-   "text": "WPS file generated, bank paid, every employee notified — no printing, no queue at HR.\n\nOne portal for 50–650 employees, in English and Arabic. demo.global-link.ae\n\n#payroll #WPS #HR #UAE #AbuDhabi"
-  },
-  {
-   "date": "2026-11-22",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "buffer_id": "6afe8c4846636f319e8e874a",
-   "asset": "look3/v4-hr-vo.mp4",
-   "kind": "video",
-   "title": "Your company. Its own portal.",
-   "text": "Attendance, leave, payslips, WPS — one place, English & Arabic. demo.global-link.ae #HR #payroll #UAE #GlobalLink #WPS"
-  },
-  {
-   "date": "2026-11-23",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad9-nursery-parents.jpg",
-   "kind": "image",
-   "title": "Parents asking “how was her day?” Show them. Daily.",
-   "text": "Daily records, photos, policies signed on the phone, attendance and fees — one app for staff, one for parents.\n\ndemo.global-link.ae\n\n#GlobalLink #nursery #EYFS #parents #AbuDhabi #UAE #childcare",
-   "buffer_id": "6affdd9a0f5eda1a57c53043"
-  },
-  {
-   "date": "2026-11-23",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look3/ad1-3d-payroll.jpg",
-   "kind": "image",
-   "title": "Built your payroll for 20 staff. Now you’re at 200?",
-   "text": "The spreadsheet that worked at 20 people breaks at 200. One system for people, payroll and invoices that grows with the team — Arabic and English, WPS-ready, and yours to own.\n\nSample-data demo: demo.global-link.ae\n\n#payroll #HR #scaleup #UAE #AbuDhabi",
-   "buffer_id": "6affdda30f5eda1a57c532a5"
-  },
-  {
-   "date": "2026-11-23",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v5-qms-vo.mp4",
-   "kind": "video",
-   "title": "Auditors love it.",
-   "text": "Peer reviewed, released with a PIN, QR on every PDF. demo.global-link.ae/qms #ISO9001 #audit #quality #UAE #GlobalLink",
-   "buffer_id": "6affddabd5f8acdd0d74e2fa"
-  },
-  {
-   "date": "2026-11-24",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look3/ad7-trading-stock.jpg",
-   "kind": "image",
-   "title": "Stock in Excel. Quotes in Word? One system for trading.",
-   "text": "Products, stock, quotes, installation jobs and AMC renewals — from the warehouse floor to the invoice.\n\ndemo.global-link.ae\n\n#GlobalLink #trading #inventory #LED #UAE #AbuDhabi #Dubai",
-   "buffer_id": "6b012f115e993799d854f494"
-  },
-  {
-   "date": "2026-11-24",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look2/n3-2.jpg",
-   "kind": "image",
-   "title": "2 languages on every screen and every PDF.",
-   "text": "2 languages on every screen and every PDF.\n\nArabic and English are not a translation added later. Every screen, payslip, invoice, quality form and notification is built right-to-left ready from day one, because that is how businesses in the UAE actually work.\n\nTry it in Arabic: demo.global-link.ae",
-   "buffer_id": "6b012f185102766245fba064"
-  },
-  {
-   "date": "2026-11-24",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "look3/v6-field-vo.mp4",
-   "kind": "video",
-   "title": "The office sees it live.",
-   "text": "Jobs, on the way, paid, invoiced — from the team lead’s pocket. demo.global-link.ae #fieldservice #cleaning #UAE #GlobalLink #business",
-   "buffer_id": "6b012f1fd9cbb430a1210632"
-  },
-  {
-   "date": "2026-11-25",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "look2/c1-iso-1.jpg",
-   "kind": "carousel",
-   "title": "Your ISO 9001 manual as a system: 5 things that change",
-   "text": "Your ISO 9001 manual as a system: 5 things that change. Swipe →\n\n#ISO9001 #quality #UAE #AbuDhabi #consultancy",
-   "assets": [
-    "look2/c1-iso-1.jpg",
-    "look2/c1-iso-2.jpg",
-    "look2/c1-iso-3.jpg",
-    "look2/c1-iso-4.jpg",
-    "look2/c1-iso-5.jpg",
-    "look2/c1-iso-6.jpg",
-    "look2/c1-iso-7.jpg"
-   ],
-   "buffer_id": "6b0280aac72676f5e906fa88"
-  },
-  {
-   "date": "2026-11-25",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "look3/ad2-phone-checkin.jpg",
-   "kind": "image",
-   "title": "Site attendance, checked in from the gate.",
-   "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves, and payroll starts from the truth, not from memory.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #attendance #payroll #UAE",
-   "buffer_id": "6b0280afd5eabfb8cc85a0d9"
-  },
-  {
-   "date": "2026-11-25",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "batch2/w1-website-vo.mp4",
-   "kind": "video",
-   "title": "Your website still says 2019?",
-   "text": "Arabic and English, built for the phone, enquiries straight to you. global-link.ae #website #UAE #AbuDhabi #smallbusiness #GlobalLink",
-   "batch": "batch2",
-   "buffer_id": "6b056235637ab97445e1d625"
-  },
-  {
-   "date": "2026-11-26",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "eid55/p1-launch.jpg",
-   "kind": "image",
-   "text": "Celebrating 55 years of the Union with an offer for UAE businesses: 20% off any website or business portal booked by 10 December.\n\nArabic and English on every screen, delivered on your own hosting, with the source code.\n\nعرض عيد الاتحاد: خصم 20% على المواقع الإلكترونية وأنظمة الأعمال حتى 10 ديسمبر\n\nLive demos: demo.global-link.ae\n\n#EidAlEtihad #عيد_الاتحاد #UAE #AbuDhabi #GlobalLink",
-   "campaign": "eid55",
-   "buffer_id": "6b03d20fd5eabfb8cc0b056d"
-  },
-  {
-   "date": "2026-11-26",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "eid55/p1-launch.jpg",
-   "kind": "image",
-   "text": "As the UAE marks 55 years since the Union, we're offering 20% off websites and business portals booked between 26 November and 10 December.\n\nHR and payroll, operations, ISO 9001 and nursery portals, and bilingual Arabic and English company websites. All delivered on your own hosting, with the source code and a training call.\n\nSee them live: demo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #smallbusiness",
-   "campaign": "eid55",
-   "buffer_id": "6b03d214d5eabfb8cc0b0785"
-  },
-  {
-   "date": "2026-11-26",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "eid55/p1-launch-tiktok.mp4",
-   "kind": "video",
-   "title": "Our Eid Al Etihad offer",
-   "text": "55 years of the Union. 20% off websites and business portals until 10 Dec. demo.global-link.ae #EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55",
-   "buffer_id": "6b03d21a846b0ee907e7d7f9"
-  },
-  {
-   "date": "2026-11-28",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p2-family.jpg",
-   "kind": "image",
-   "text": "Many UAE companies began as a family business, and many still are.\n\nWe build the systems that help them grow: staff and payroll, jobs and invoices, customers and reports, in Arabic and English.\n\nOur Eid Al Etihad offer: 20% off until 10 December.\ndemo.global-link.ae\n\n#EidAlEtihad #عيد_الاتحاد #familybusiness #UAE #GlobalLink",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-11-28",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p2-family.jpg",
-   "kind": "image",
-   "text": "Many UAE companies began as a family business. As they grow, the spreadsheets and WhatsApp groups that worked for ten people stop working for fifty.\n\nWe replace them with one portal for staff, payroll, jobs, invoices and reports, in Arabic and English, on your own hosting.\n\nFor Eid Al Etihad: 20% off projects booked by 10 December. demo.global-link.ae\n\n#EidAlEtihad #familybusiness #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-11-28",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "eid55/p2-family-tiktok.mp4",
-   "kind": "video",
-   "title": "Built for family businesses",
-   "text": "From family business to growing company: one system, Arabic and English. 20% off until 10 Dec. #EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-11-30",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p3-commemoration.jpg",
-   "kind": "image",
-   "text": "On Commemoration Day, we remember with pride the sons of the UAE who gave their lives for the nation, and we stand with their families.\n\nنستذكر بكل فخر واعتزاز تضحيات شهداء الوطن\n\n#CommemorationDay #يوم_الشهيد",
-   "campaign": "eid55",
-   "time": "08:00"
-  },
-  {
-   "date": "2026-11-30",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p3-commemoration.jpg",
-   "kind": "image",
-   "text": "On Commemoration Day, we remember with pride the sons of the UAE who gave their lives for the nation, and we stand with their families.\n\nنستذكر بكل فخر واعتزاز تضحيات شهداء الوطن\n\n#CommemorationDay #يوم_الشهيد",
-   "campaign": "eid55",
-   "time": "08:00"
-  },
-  {
-   "date": "2026-12-01",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p4-eve.jpg",
-   "kind": "image",
-   "text": "Tomorrow the UAE celebrates 55 years of the Union. We're proud to build for the businesses that call this country home.\n\nOur Eid Al Etihad offer runs until 10 December.\n\n#EidAlEtihad #عيد_الاتحاد #UAE #AbuDhabi",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-01",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p4-eve.jpg",
-   "kind": "image",
-   "text": "Tomorrow the UAE celebrates 55 years of the Union. From Abu Dhabi, we're proud to build for the companies that call this country home.\n\nOur Eid Al Etihad offer (20% off websites and portals) runs until 10 December.\n\n#EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-01",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "eid55/p4-eve-tiktok.mp4",
-   "kind": "video",
-   "title": "Eve of the 55th Eid Al Etihad",
-   "text": "Tomorrow, 55 years of the Union. #EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-02",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p5-greeting.jpg",
-   "kind": "image",
-   "text": "Happy 55th Eid Al Etihad to the people of the UAE and to everyone who calls this country home.\n\nكل عام والإمارات بخير\n\nFrom all of us at Global Link International, Abu Dhabi.\n\n#EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55",
-   "time": "08:00"
-  },
-  {
-   "date": "2026-12-02",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p5-greeting.jpg",
-   "kind": "image",
-   "text": "Happy 55th Eid Al Etihad to the people of the UAE and to everyone who calls this country home.\n\nكل عام والإمارات بخير\n\nFrom all of us at Global Link International, Abu Dhabi.\n\n#EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55",
-   "time": "08:00"
-  },
-  {
-   "date": "2026-12-02",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "eid55/p5-greeting-tiktok.mp4",
-   "kind": "video",
-   "title": "Happy 55th Eid Al Etihad",
-   "text": "Happy 55th Eid Al Etihad to the people of the UAE and to everyone who calls this country home.\n\nكل عام والإمارات بخير\n\nFrom all of us at Global Link International, Abu Dhabi.\n\n#EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55",
-   "time": "08:00"
-  },
-  {
-   "date": "2026-12-04",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p6-december.jpg",
-   "kind": "image",
-   "text": "Start in December, go live in January.\n\nMost of our portals are ready in 2 to 3 weeks, in Arabic and English, on your own hosting.\n\nEid Al Etihad offer: 20% off, booked by 10 December.\ndemo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #GlobalLink #smallbusiness",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-04",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p6-december.jpg",
-   "kind": "image",
-   "text": "Planning to fix HR, payroll or operations in the new year? Start in December and go live in January.\n\nMost portals are ready in 2 to 3 weeks: staff, payroll and the WPS file, jobs and invoices, ISO 9001 records, nursery and parent apps. Arabic and English, on your own hosting.\n\nEid Al Etihad offer: 20% off projects booked by 10 December. demo.global-link.ae\n\n#EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-04",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "eid55/p6-december-tiktok.mp4",
-   "kind": "video",
-   "title": "Start in December, go live in January",
-   "text": "Start in December, go live in January. 20% off until 10 Dec. demo.global-link.ae #EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-07",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p7-4days.jpg",
-   "kind": "image",
-   "text": "4 days left. Our Eid Al Etihad offer, 20% off websites and business portals, ends Thursday 10 December.\n\nMessage us for a live demo.\ndemo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #GlobalLink",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-07",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p7-4days.jpg",
-   "kind": "image",
-   "text": "Our Eid Al Etihad offer ends Thursday 10 December: 20% off websites and business portals for UAE companies. If you've been meaning to replace Excel and WhatsApp with one system, this is a good week to book a demo. demo.global-link.ae\n\n#EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-07",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "eid55/p7-4days-tiktok.mp4",
-   "kind": "video",
-   "title": "4 days left",
-   "text": "4 days left: 20% off, ends 10 Dec. #EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-10",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "eid55/p8-lastday.jpg",
-   "kind": "image",
-   "text": "Last day of our Eid Al Etihad offer: 20% off websites and business portals, booked today.\n\nThank you to everyone who reached out this month.\ndemo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #GlobalLink",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-10",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "eid55/p8-lastday.jpg",
-   "kind": "image",
-   "text": "Today is the last day of our Eid Al Etihad offer: 20% off websites and business portals for projects booked by tonight. Thank you to everyone who reached out over the past two weeks. demo.global-link.ae\n\n#EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-12-10",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "eid55/p8-lastday-tiktok.mp4",
-   "kind": "video",
-   "title": "Last day of the offer",
-   "text": "Last day: 20% off websites and portals. #EidAlEtihad #UAE",
-   "campaign": "eid55"
-  },
-  {
-   "date": "2026-11-27",
-   "channel": "instagram",
-   "status": "scheduled",
-   "asset": "batch2/ad13-web-boutique.jpg",
-   "kind": "image",
-   "title": "Customers google you first.",
-   "text": "Customers check you online before they ever call. We build bilingual company websites — Arabic and English, phone-first, with enquiry forms that reach you directly. Designed, written and hosted on your own account.\n\nSee our work: global-link.ae\n\n#website #webdesign #UAE #AbuDhabi #smallbusiness #GlobalLink",
-   "batch": "batch2",
-   "buffer_id": "6b05626b637ab97445e1f6e8"
-  },
-  {
-   "date": "2026-11-27",
-   "channel": "linkedin",
-   "status": "scheduled",
-   "asset": "batch2/ad14-vat-return.jpg",
-   "kind": "image",
-   "title": "VAT return due Thursday? Ready by Monday.",
-   "text": "VAT returns shouldn’t be a last-week scramble. When sales, purchases and expenses are posted as they happen, the return builds itself — and every figure links back to the invoice behind it.\n\nBuilt for UAE businesses, in AED, in Arabic and English. Sample-data demo: demo.global-link.ae\n\n#VAT #UAE #accounting #finance #AbuDhabi",
-   "batch": "batch2",
-   "buffer_id": "6b05627168504a8e3a1b91eb"
-  },
-  {
-   "date": "2026-11-27",
-   "channel": "tiktok",
-   "status": "scheduled",
-   "asset": "batch2/w2-office-vo.mp4",
-   "kind": "video",
-   "title": "Six companies. Sixty cheques.",
-   "text": "The whole family office on one screen — companies, leases, cheques and VAT. Private, on your own server. global-link.ae #familyoffice #UAE #AbuDhabi #realestate #GlobalLink",
-   "batch": "batch2",
-   "buffer_id": "6b05626468504a8e3a1b8cce"
-  },
-  {
-   "date": "2026-12-05",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch2/ad15-geofence.jpg",
-   "kind": "image",
-   "title": "Clock-in only works inside the site fence.",
-   "text": "Workers check in on their own phone — but only when they are actually inside the site’s geofence. No buddy punching, no paper sheets, no extra hardware.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #UAE #AbuDhabi #attendance #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-05",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch2/ad16-utilization.jpg",
-   "kind": "image",
-   "title": "Which projects eat your hours? Know by Friday.",
-   "text": "Most companies find out which projects ate their hours at year end. Hours by worker, site and project can roll up on their own — so utilisation and cost per project are on screen every week, while you can still act.\n\nSample-data demo: demo.global-link.ae\n\n#projectmanagement #construction #utilisation #UAE #AbuDhabi",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-05",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch2/w3-vat-ar-vo.mp4",
-   "kind": "video",
-   "title": "إقرار الضريبة في آخر لحظة؟",
-   "text": "كل فاتورة في مكانها، والإقرار جاهز قبل الموعد. demo.global-link.ae #ضريبة_القيمة_المضافة #الإمارات #أبوظبي #محاسبة #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-06",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch2/ad17-learning.jpg",
-   "kind": "image",
-   "title": "Practice questions in every student’s pocket.",
-   "text": "Chapters, short notes and self-marking quizzes on the student’s own phone — and teachers see who needs help before the exam, not after. Your school’s own learning app, with your name on it.\n\nglobal-link.ae\n\n#edtech #school #learning #students #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-06",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch2/ad18-project-pl.jpg",
-   "kind": "image",
-   "title": "Profit by project, not just profit by year.",
-   "text": "A good year can hide three loss-making projects. When every invoice, cost and timesheet is tagged to its project, you see which jobs make money while there is still time to act.\n\nBuilt for consultancies and contractors. Sample-data demo: demo.global-link.ae/qms\n\n#projectmanagement #consulting #finance #UAE #AbuDhabi",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-06",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch2/w4-site-vo.mp4",
-   "kind": "video",
-   "title": "Who was really on site today?",
-   "text": "Check-in at the site gate, live headcount, timesheets that fill themselves. demo.global-link.ae #construction #MEP #UAE #payroll #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-08",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch2/ad19-parents-ar.jpg",
-   "kind": "image",
-   "title": "أولياء الأمور يوقّعون السياسات من الجوال",
-   "text": "تصل سياسات الحضانة ونماذجها لكل وليّ أمر بالعربية أو الإنجليزية، ويوقّعها من جواله — بدون ورق، ومع سجلّ كامل لكل توقيع.\n\ndemo.global-link.ae\n\n#حضانة #أبوظبي #الإمارات #EYFS #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-08",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch2/ad20-md-week.jpg",
-   "kind": "image",
-   "title": "The MD’s Monday question: what needs me this week?",
-   "text": "Pipeline, cash, late reports and open risks on one page — updated by the team during the week, read by the managing director in two minutes on Monday morning.\n\nSample-data demo: demo.global-link.ae/qms\n\n#leadership #management #projects #UAE #AbuDhabi",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-08",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch2/w5-learning-vo.mp4",
-   "kind": "video",
-   "title": "Exams coming. Notes everywhere.",
-   "text": "Your school’s own learning app — chapters, notes and self-marking quizzes. global-link.ae #edtech #school #students #learning #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-09",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch2/ad21-cheques.jpg",
-   "kind": "image",
-   "title": "Post-dated cheques, no more surprises.",
-   "text": "Every cheque in and out — by company, property and bank — with a reminder before it is due. Leases, renewals and VAT in the same place, private, on your own server.\n\nAsk for a private demo: global-link.ae\n\n#familyoffice #realestate #UAE #AbuDhabi #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-09",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch2/ad22-billed-hours.jpg",
-   "kind": "image",
-   "title": "Every hour your team worked — billed?",
-   "text": "For manpower and MEP companies, unbilled hours are the quietest leak. When timesheets turn into client invoices in a click, nothing slips between site and accounts.\n\nSample-data demo: demo.global-link.ae\n\n#manpower #MEP #invoicing #UAE #AbuDhabi",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-09",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch2/w6-md-vo.mp4",
-   "kind": "video",
-   "title": "Twenty projects. One surprise loss.",
-   "text": "Pipeline, profit by project and today’s risks — on one dashboard. demo.global-link.ae/qms #projects #management #UAE #business #GlobalLink",
-   "batch": "batch2"
-  },
-  {
-   "date": "2026-12-11",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i01-ncr-phone.jpg",
-   "kind": "image",
-   "title": "Spot it, snap it, fix it.",
-   "text": "Spot it, snap it, fix it. Non-conformities raised from the phone with a photo, assigned to the right person and tracked until they are closed with sign-off.\n\ndemo.global-link.ae/qms\n\n#ISO9001 #QHSE #quality #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-11",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l01-ncr-cost.jpg",
-   "kind": "image",
-   "title": "Every NCR left open is a finding waiting for your auditor.",
-   "text": "Every non-conformity left open is a finding waiting for your auditor. When the NCR, root cause, corrective action and sign-off live in one place, nothing slips between site and office.\n\nSample-data QMS demo: demo.global-link.ae/qms\n\n#ISO9001 #quality #QHSE #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-11",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r01-ncr.mp4",
-   "kind": "video",
-   "title": "A problem on site at 4 pm.",
-   "text": "NCR raised from the phone, corrective action tracked, closed with sign-off. demo.global-link.ae/qms #ISO9001 #quality #QHSE #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-12",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i02-nursery-ratio.jpg",
-   "kind": "image",
-   "title": "Room 2 is one teacher short. Know before 8 am.",
-   "text": "Staff clock in on arrival and ratios are checked room by room — so you know about cover before the first child walks in.\n\ndemo.global-link.ae\n\n#nursery #EYFS #childcare #AbuDhabi #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-12",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l02-ratios.jpg",
-   "kind": "image",
-   "title": "Ratios are not a spreadsheet problem. They are an 8 am problem.",
-   "text": "Ratios are not a spreadsheet problem — they are an 8 am problem. When staff clock in on arrival, every room is checked before the first child walks in, and cover is arranged early.\n\ndemo.global-link.ae\n\n#nursery #earlyyears #EYFS #AbuDhabi #UAE",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-12",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r02-nursery-staff.mp4",
-   "kind": "video",
-   "title": "Staff rota on paper?",
-   "text": "Nursery staff clock in on their phone; ratios by room; payroll from real hours. demo.global-link.ae #nursery #EYFS #AbuDhabi #childcare #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-13",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i03-install-van.jpg",
-   "kind": "image",
-   "title": "Every installation, on one timeline.",
-   "text": "Order, delivery, installation, hand-over and warranty — one timeline for every job, visible to the office and the client.\n\ndemo.global-link.ae\n\n#installation #trading #LED #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-13",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l03-after-sales.jpg",
-   "kind": "image",
-   "title": "The sale is the start of the relationship, not the end.",
-   "text": "For trading and installation companies, the sale is the start of the relationship. When installation, hand-over, warranty and service visits sit on one timeline, renewals and repeat orders stop slipping away.\n\ndemo.global-link.ae\n\n#trading #installation #aftersales #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-13",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r03-install.mp4",
-   "kind": "video",
-   "title": "Sold on Monday. Installed when?",
-   "text": "From the signed quote to installation and after-sales service — one timeline. demo.global-link.ae #installation #LED #trading #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-14",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i04-crew-payroll.jpg",
-   "kind": "image",
-   "title": "Crew payroll, straight from the jobs.",
-   "text": "Every job a crew finishes counts toward their pay — no timesheets to chase and no disputes on payday.\n\ndemo.global-link.ae\n\n#cleaning #facilitymanagement #payroll #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-14",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l04-profit-per-job.jpg",
-   "kind": "image",
-   "title": "Revenue tells you you were busy. Profit per job tells you whether it was worth it.",
-   "text": "Revenue tells you that you were busy. Profit per job tells you whether it was worth it. Tie bookings, crew cost and invoices to each job and the answer is on screen every day.\n\ndemo.global-link.ae\n\n#facilitymanagement #services #profitability #UAE #smallbusiness",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-14",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r04-cleaning-profit.mp4",
-   "kind": "video",
-   "title": "Busy every day. Profit?",
-   "text": "Bookings, crews, payroll and profit per job — every day. demo.global-link.ae #cleaning #facilitymanagement #UAE #smallbusiness #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-15",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i05-doc-control.jpg",
-   "kind": "image",
-   "title": "Revision 3? Found in seconds.",
-   "text": "Current revision, approver and history for every controlled document — found in seconds when the auditor asks.\n\ndemo.global-link.ae/qms\n\n#ISO9001 #documentcontrol #audit #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-15",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l05-doc-control.jpg",
-   "kind": "image",
-   "title": "If finding the current revision takes ten minutes, your document control is a risk.",
-   "text": "If finding the current revision of a procedure takes ten minutes, document control is a risk, not a process. A controlled registry shows revision, approver and history in seconds — and audit day becomes routine.\n\ndemo.global-link.ae/qms\n\n#ISO9001 #documentcontrol #audit #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-15",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r05-audit-docs.mp4",
-   "kind": "video",
-   "title": "The auditor asks for revision 3.",
-   "text": "Document control, internal audits and quality reports — audit day without panic. demo.global-link.ae/qms #ISO9001 #audit #documentcontrol #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-16",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i06-payslip-phone.jpg",
-   "kind": "image",
-   "title": "Payslip day, no queue.",
-   "text": "Every worker opens their own payslip on their phone, in Arabic or English, with hours, leave and deductions explained. No queue at the HR window.\n\ndemo.global-link.ae\n\n#payroll #WPS #construction #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-16",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l06-payslip-trust.jpg",
-   "kind": "image",
-   "title": "Most payroll questions are really “I can’t see how this was calculated.”",
-   "text": "Most payroll questions are really “I can’t see how this was calculated.” Payslips on the phone, with hours, leave and deductions explained in Arabic or English, cut those questions to almost zero.\n\ndemo.global-link.ae\n\n#payroll #HR #WPS #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-16",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r06-payslips.mp4",
-   "kind": "video",
-   "title": "Payday queue at HR?",
-   "text": "Payslips on every worker’s phone, WPS file ready for the bank. demo.global-link.ae #payroll #WPS #HR #construction #UAE",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-17",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i07-quiz-phone.jpg",
-   "kind": "image",
-   "title": "Homework that marks itself.",
-   "text": "Practice questions and quizzes on the student’s phone, marked instantly — and teachers see the weak topics the next morning.\n\nglobal-link.ae\n\n#edtech #school #students #teachers #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-17",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l07-learning-gap.jpg",
-   "kind": "image",
-   "title": "Most learning gaps are visible weeks before the exam — if you measure them.",
-   "text": "Most learning gaps are visible weeks before the exam — if you measure them. Self-marking practice and quizzes show each class’s weak topics while there is still time to teach them again.\n\nglobal-link.ae\n\n#education #edtech #schools #teachers #learning",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-17",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r07-quiz.mp4",
-   "kind": "video",
-   "title": "Thirty students. One teacher.",
-   "text": "Practice, self-marking quizzes and ask-the-teacher — your school’s own app. global-link.ae #edtech #school #teachers #students #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-18",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i08-arabic-day.jpg",
-   "kind": "image",
-   "title": "يوم اللغة العربية العربية في كل شاشة.",
-   "text": "في يوم اللغة العربية: نبني أنظمة الأعمال بالعربية في كل شاشة وكل تقرير، من اليمين إلى اليسار، وبالإنجليزية أيضاً.\n\ndemo.global-link.ae\n\n#يوم_اللغة_العربية #الإمارات #أبوظبي #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-18",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l08-arabic-day.jpg",
-   "kind": "image",
-   "title": "نبني أنظمة الأعمال بالعربية من اليوم الأول.",
-   "text": "في يوم اللغة العربية: نبني أنظمة الأعمال بالعربية من اليوم الأول — كل شاشة وكل تقرير من اليمين إلى اليسار، مع الإنجليزية، لأن هذه هي طريقة العمل في الإمارات.\n\ndemo.global-link.ae\n\n#يوم_اللغة_العربية #الإمارات #أبوظبي #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-18",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r08-arabic-day-ar.mp4",
-   "kind": "video",
-   "title": "يوم اللغة العربية",
-   "text": "في يوم اللغة العربية: أنظمة أعمال بالعربية في كل شاشة وكل تقرير. demo.global-link.ae #يوم_اللغة_العربية #الإمارات #أبوظبي #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-19",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i09-marine-site.jpg",
-   "kind": "image",
-   "title": "Clients judge your fleet by your website.",
-   "text": "Clients judge your fleet by your website. Vessel pages, services and enquiries in English and Arabic — a site as serious as the work you do.\n\nglobal-link.ae\n\n#marine #offshore #website #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-19",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l09-b2b-website.jpg",
-   "kind": "image",
-   "title": "Your next client will read your website before they read your proposal.",
-   "text": "Your next client will read your website before they read your proposal. For marine, engineering and industrial firms, a clear bilingual site with real projects and services shortens every sales cycle.\n\nglobal-link.ae\n\n#B2B #marine #engineering #website #UAE",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-19",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r09-marine-web.mp4",
-   "kind": "video",
-   "title": "World-class vessels. Your website?",
-   "text": "Company websites for marine, engineering and industrial firms — vessels, services, enquiries. global-link.ae #marine #shipbuilding #offshore #website #UAE",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-20",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i10-daily-qr.jpg",
-   "kind": "image",
-   "title": "A daily report the client can verify.",
-   "text": "Filed once from site, sent as a clean PDF with a QR code the client can scan to verify it.\n\ndemo.global-link.ae/qms\n\n#projects #construction #reports #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-20",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l10-reporting.jpg",
-   "kind": "image",
-   "title": "A report retyped at night is a report that arrives late — and with errors.",
-   "text": "A report retyped at night arrives late and with errors. Filed once from site and sent as a verified PDF, it reaches the client the same day — and the team gets its evening back.\n\ndemo.global-link.ae/qms\n\n#projectmanagement #construction #reporting #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-20",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r10-daily-pdf.mp4",
-   "kind": "video",
-   "title": "Daily reports typed at 9 pm?",
-   "text": "Daily reports filed from site, sent as a PDF with a QR the client can verify. demo.global-link.ae/qms #construction #projects #marine #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-21",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i11-licence-renewal.jpg",
-   "kind": "image",
-   "title": "Trade licence expires in 30 days.",
-   "text": "Every company, licence and key document, with reminders before anything expires — private, on your own server.\n\nglobal-link.ae\n\n#familyoffice #compliance #UAE #AbuDhabi #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-21",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l11-renewals.jpg",
-   "kind": "image",
-   "title": "The costliest renewal is the one nobody noticed.",
-   "text": "The costliest renewal is the one nobody noticed. Licences, leases and documents for every entity in one private system, with reminders well before anything expires.\n\nglobal-link.ae\n\n#familyoffice #compliance #governance #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-21",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r11-office-payroll.mp4",
-   "kind": "video",
-   "title": "Five companies. One payroll day.",
-   "text": "Company records, licence renewals and payroll by entity — private, on your own server. global-link.ae #familyoffice #payroll #UAE #AbuDhabi #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-22",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i12-led-site.jpg",
-   "kind": "image",
-   "title": "Your best projects, in their pocket.",
-   "text": "A project-led website, fast on every phone — so every installation you are proud of brings the next enquiry.\n\nglobal-link.ae\n\n#LED #signage #website #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-22",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l12-project-site.jpg",
-   "kind": "image",
-   "title": "Your finished projects are your best salespeople. Are they on your website?",
-   "text": "Your finished projects are your best salespeople — if clients can see them. A project-led website turns landmark work into the next enquiry, in English and Arabic.\n\nglobal-link.ae\n\n#marketing #construction #signage #website #UAE",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-22",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r12-led-web.mp4",
-   "kind": "video",
-   "title": "You light up the city.",
-   "text": "A project-led website for an LED display company — landmarks, day/night views, enquiries. global-link.ae #LED #digitalsignage #website #UAE #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-23",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i13-new-year.jpg",
-   "kind": "image",
-   "title": "Book in December, live in January.",
-   "text": "Most portals go live in 2 to 3 weeks. Book in December and start 2027 with HR, payroll, operations and quality on one system.\n\ndemo.global-link.ae\n\n#2027 #business #UAE #AbuDhabi #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-23",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l13-plan-2027.jpg",
-   "kind": "image",
-   "title": "The best time to replace spreadsheets is before the new year’s first payroll.",
-   "text": "The best time to replace spreadsheets is before the new year’s first payroll. Most of our portals go live in 2 to 3 weeks — book in December and start 2027 on one system.\n\ndemo.global-link.ae\n\n#planning #2027 #operations #UAE #AbuDhabi",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-23",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r13-year-end.mp4",
-   "kind": "video",
-   "title": "New year. Same spreadsheets?",
-   "text": "Start 2027 on one system — HR, payroll, operations, quality. Most portals live in 2–3 weeks. demo.global-link.ae #2027 #business #UAE #AbuDhabi #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-24",
-   "channel": "instagram",
-   "status": "todo",
-   "asset": "batch3/i14-tablet-door.jpg",
-   "kind": "image",
-   "title": "The register is on the tablet.",
-   "text": "Each room checks children in and out on its own tablet, with a PIN and photo — and parents are notified straight away.\n\ndemo.global-link.ae\n\n#nursery #childcare #parents #AbuDhabi #GlobalLink",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-24",
-   "channel": "linkedin",
-   "status": "todo",
-   "asset": "batch3/l14-safeguarding.jpg",
-   "kind": "image",
-   "title": "A paper register is a safeguarding record. Treat it like one.",
-   "text": "A paper register is a safeguarding record — so treat it like one. Tablet check-in with PIN and photo gives every arrival and collection a time, a name and a witness, and parents are notified straight away.\n\ndemo.global-link.ae\n\n#nursery #safeguarding #earlyyears #AbuDhabi #UAE",
-   "batch": "batch3"
-  },
-  {
-   "date": "2026-12-24",
-   "channel": "tiktok",
-   "status": "todo",
-   "asset": "batch3/r14-tablet-signin.mp4",
-   "kind": "video",
-   "title": "Morning drop-off. Who signed in?",
-   "text": "Room tablets for check-in/out, parents notified, a live register of every child. demo.global-link.ae #nursery #childcare #AbuDhabi #EYFS #GlobalLink",
-   "batch": "batch3"
-  }
- ]
+  "_readme": "Global Link daily social plan. One entry per day per channel. The scheduled task schedules every entry whose date is within the next 3 days and status is 'todo', then sets status to 'scheduled' with the Buffer post id and commits. Times: 09:00 Asia/Dubai. Assets: https://raw.githubusercontent.com/globallinkae/social-assets/main/media/<file>. Rules: see RULES.md.",
+  "channels": {
+    "instagram": "6aec22f9e29c69a1716b286c",
+    "linkedin": "6aec237be29c69a1716b2bb7",
+    "tiktok": "6aec2410e29c69a1716b2f98"
+  },
+  "posts": [
+    {
+      "date": "2026-11-13",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "buffer_id": "6af2aeb0223aa16048efdc19",
+      "asset": "2026-11/gl-business-portals.jpg",
+      "kind": "image",
+      "text": "A portal is not a website.\n\nA website tells people who you are. A portal is where your clients, suppliers or staff log in and do things: see their statements, download their documents, approve a quote, raise a request, track a job.\n\nWe build portals that sit on top of the systems a business already runs: one login, English and Arabic, PIN approvals for anything that moves money, QR-verified PDFs, and a full audit trail of who did what.\n\nThe fastest way to see whether your business needs one: pick your business type in the live demo and look at the client and staff views. demo.global-link.ae\n\n#Portals #UAE #DigitalTransformation #SMEs #CustomSoftware"
+    },
+    {
+      "date": "2026-11-13",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "buffer_id": "6af2aeb526f9e6aeeae8889d",
+      "asset": "04-demo-video.mp4",
+      "kind": "video",
+      "title": "Payroll in 4 steps",
+      "text": "Check in → timesheets → payroll → invoices. 22 seconds, one system 🚀 Try it: demo.global-link.ae #UAE #AbuDhabi #payroll #HR #smallbusiness"
+    },
+    {
+      "date": "2026-11-14",
+      "channel": "instagram",
+      "status": "scheduled",
+      "buffer_id": "6af3fff81da76fd3d2c343dd",
+      "asset": "2026-11/gl-websites.jpg",
+      "kind": "image",
+      "text": "Your website is the first meeting 🌐\n\nWe build bilingual company websites — English and Arabic on every page, fast on phones, written to bring enquiries, not just visits. A marine consultancy in Abu Dhabi runs 30 pages in two languages on ours.\n\nTypical delivery: 2–4 weeks.\n\nSee our work — link in bio.\n\n#WebsiteDesignUAE #WebDesign #AbuDhabi #UAEBusiness #SmallBusinessUAE #BilingualWebsite #GlobalLinkAE #Branding"
+    },
+    {
+      "date": "2026-11-14",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "buffer_id": "6af3fffe095081ea08b9c012",
+      "asset": "look3/v5-qms-vo.mp4",
+      "kind": "video",
+      "title": "Your ISO 9001 manual, as a working system",
+      "text": "Who we are, in 30 seconds.\n\nGlobal Link International builds business systems, staff and customer apps, bilingual websites and accounting migrations from Abu Dhabi. Licensed since 2020, projects delivered in six countries.\n\nWhat clients get on every system: English and Arabic, PIN approvals, QR-verified PDFs, an audit trail, a phone app, and ownership of the system and the data.\n\nIf your business runs on spreadsheets and WhatsApp groups, we should talk: global-link.ae\n\n#UAE #AbuDhabi #SMEs #HRTech #DigitalTransformation",
+      "note": "asset swapped in Buffer 13 Nov (look3 reel)"
+    },
+    {
+      "date": "2026-11-14",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "buffer_id": "6af400041da76fd3d2c345b6",
+      "asset": "look3/v4-hr-vo.mp4",
+      "kind": "video",
+      "title": "Still running HR & payroll on spreadsheets?",
+      "text": "650 staff. 4 apps. 3 cities. One Abu Dhabi team building it all 💼 demo.global-link.ae #UAE #AbuDhabi #business #software #techUAE",
+      "note": "asset swapped in Buffer 13 Nov (look3 reel)"
+    },
+    {
+      "date": "2026-11-15",
+      "channel": "instagram",
+      "status": "scheduled",
+      "buffer_id": "6af551c68a1a2f52b526eedf",
+      "asset": "look3/v6-field-vo.mp4",
+      "kind": "video",
+      "title": "Field teams on WhatsApp? Run it from one phone",
+      "text": "Software that runs the whole business 💡\n\nHR, payroll, projects, accounting, apps for staff and customers, bilingual websites — built in Abu Dhabi for UAE companies.\n\n30 seconds on what we do. Then see your own system in the live demo — link in bio.\n\n#UAEBusiness #AbuDhabi #BusinessSoftware #SmallBusinessUAE #PayrollUAE #HRSystem #Reels #GlobalLinkAE",
+      "note": "asset swapped in Buffer 13 Nov (look3 reel)"
+    },
+    {
+      "date": "2026-11-15",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "buffer_id": "6af551ccdf70eccdaab4f0be",
+      "asset": "2026-11/gl-process-automation.jpg",
+      "kind": "image",
+      "text": "The most expensive process in a company is the one nobody owns.\n\nThe leave request that lives in WhatsApp. The purchase that gets approved by a phone call. The invoice that waits for someone to \"check the file\".\n\nAutomation here is not robots. It is giving each of those a form, a rule and an approver, so it moves by itself and leaves a record. A PIN approval instead of a call. A document that generates itself from data already in the system. A reminder that fires before the deadline instead of after.\n\nWe start with the three processes that cost the most time and build from there.\n\nWhich process in your company has no owner today?\n\n#Automation #UAE #SMEs #Operations #DigitalTransformation"
+    },
+    {
+      "date": "2026-11-15",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "buffer_id": "6af551d597798e85b9e60f27",
+      "asset": "look3/v8-trading-vo.mp4",
+      "kind": "video",
+      "title": "Stock in Excel. Quotes in Word?",
+      "text": "Built around how your business really works ✨ Payroll, nurseries, websites, private offices — Abu Dhabi. demo.global-link.ae #UAE #AbuDhabi #business #payroll #smallbusiness",
+      "note": "asset swapped in Buffer 13 Nov (look3 reel)"
+    },
+    {
+      "date": "2026-11-16",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad1-3d-payroll.jpg",
+      "kind": "image",
+      "title": "Built your payroll for 20 staff. Now you’re at 200?",
+      "text": "One system for people, payroll and invoices that grows with your team. Arabic and English, WPS-ready, yours to own.\n\nTry it with sample data → demo.global-link.ae\n\n#GlobalLink #AbuDhabi #UAEbusiness #HRsoftware #Payroll #WPS #CustomSoftware",
+      "buffer_id": "6af6a35ac1a0010a5bfeec09"
+    },
+    {
+      "date": "2026-11-16",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look3/ad12-650-paid.jpg",
+      "kind": "image",
+      "title": "One portal. 650 people. Paid on time, every month.",
+      "text": "Attendance, timesheets, payroll and the WPS bank file for a 650-strong construction group — every month, on a portal we built, without the spreadsheet.\n\nIf month-end still means a week of Excel, see the live demo: demo.global-link.ae\n\n#payroll #WPS #UAE #construction #HRtech",
+      "buffer_id": "6af6a35aba218f32637ed98c"
+    },
+    {
+      "date": "2026-11-16",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v4-hr-vo.mp4",
+      "kind": "video",
+      "title": "Still running HR & payroll on spreadsheets?",
+      "text": "Your company, its own portal — attendance, leave, payslips, WPS. demo.global-link.ae #GlobalLink #UAE #payroll #HR #smallbusiness",
+      "buffer_id": "6af6a35cc1a0010a5bfeec4d"
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad2-phone-checkin.jpg",
+      "kind": "image",
+      "title": "Site attendance, checked in from the gate.",
+      "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves — payroll starts from the truth, not from memory.\n\ndemo.global-link.ae\n\n#GlobalLink #AbuDhabi #construction #MEP #attendance #payroll #UAE",
+      "buffer_id": "6af7f4b04b28296eb138e781"
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look3/ad8-private-office.jpg",
+      "kind": "image",
+      "title": "Several companies. One family. One screen for all of it.",
+      "text": "Companies, leases, cheques, payroll and VAT returns for every entity — private, on your own server, in English and Arabic.\n\nWe build it, install it where you choose, and it stays yours. Ask for a private demo via global-link.ae\n\n#familyoffice #UAE #AbuDhabi #software",
+      "buffer_id": "6af7f4bad8bd2962e40c2b4e"
+    },
+    {
+      "date": "2026-11-17",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v5-qms-vo.mp4",
+      "kind": "video",
+      "title": "Your ISO 9001 manual lives in a Word file. Nobody reads it.",
+      "text": "Daily reports from the site, peer review, PIN release, QR on every PDF. demo.global-link.ae/qms #ISO9001 #QMS #UAE #GlobalLink #audit",
+      "buffer_id": "6af7f4c54b28296eb138eb97"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad3-tablet-nursery.jpg",
+      "kind": "image",
+      "title": "The class board, on the room’s tablet.",
+      "text": "Attendance, meals, naps and notes in one tap — parents see the day on their phone before pick-up.\n\ndemo.global-link.ae\n\n#GlobalLink #nursery #EYFS #AbuDhabi #UAE #earlyyears #parents",
+      "buffer_id": "6af9460ce5a113497acae9fc"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look3/ad4-ship-qms.jpg",
+      "kind": "image",
+      "title": "Your ISO 9001 manual, as a working system.",
+      "text": "Daily reports from the site, peer review, release with a PIN and a QR code on every PDF. Auditors love it — because the evidence is the system, not a binder.\n\nLive demo with sample data: demo.global-link.ae/qms\n\n#ISO9001 #QMS #marine #AbuDhabi #quality",
+      "buffer_id": "6af94619918fe79d2ec41d9c"
+    },
+    {
+      "date": "2026-11-18",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v6-field-vo.mp4",
+      "kind": "video",
+      "title": "Your cleaning crews run on WhatsApp?",
+      "text": "Jobs, on the way, paid, invoiced — the office sees it live. demo.global-link.ae #cleaning #fieldservice #UAE #GlobalLink #smallbusiness",
+      "buffer_id": "6af94626e5a113497acaecf6"
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad5-vat-receipts.jpg",
+      "kind": "image",
+      "title": "Receipts in a shoebox. VAT return in a panic?",
+      "text": "Invoices, expenses and VAT in one system — the return is ready before the deadline, and every number traces back to its document.\n\ndemo.global-link.ae\n\n#GlobalLink #VAT #UAE #accounting #smallbusiness #AbuDhabi #Dubai",
+      "buffer_id": "6afa97a506e1675856cc37d8"
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look2/c1-iso-carousel-linkedin.pdf",
+      "kind": "pdf",
+      "title": "Your ISO 9001 manual as a system: 5 things that change.",
+      "text": "Your ISO 9001 manual as a system: 5 things that change.\n\n1. Every form numbered, with its revision and retention.\n2. Site reports filed from the yard, on the phone.\n3. Nothing leaves unchecked: peer review and a PIN release.\n4. The auditor sees the whole trail: NCRs, audits, CARs, management review.\n5. The PDF proves itself with a QR code.\n\nFor engineering, marine and inspection consultancies in the UAE. Live demo with five roles: demo.global-link.ae/qms",
+      "buffer_id": "6afa97af06e1675856cc3b72"
+    },
+    {
+      "date": "2026-11-19",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v7-nursery-vo.mp4",
+      "kind": "video",
+      "title": "Parents want to know how her day went.",
+      "text": "Class board, daily records, photos, policies, fees — one app for staff, one for parents. demo.global-link.ae #nursery #EYFS #UAE #GlobalLink #parents",
+      "buffer_id": "6afa97b806e1675856cc4208"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad6-field-cleaning.jpg",
+      "kind": "image",
+      "title": "Field teams on WhatsApp? Run it from one phone.",
+      "text": "Bookings, crews, “on the way”, payment collected — the office sees it live. For cleaning, maintenance and pest-control companies.\n\ndemo.global-link.ae\n\n#GlobalLink #cleaning #fieldservice #maintenance #UAE #AbuDhabi #smallbusiness",
+      "buffer_id": "6afbe92c3e42cd001e559770"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look3/ad7-trading-stock.jpg",
+      "kind": "image",
+      "title": "Stock in Excel. Quotes in Word. One system for trading.",
+      "text": "Products, stock, quotes, installation jobs and AMC renewals — from the warehouse floor to the invoice, with no re-typing.\n\nBuilt for trading and installation companies. demo.global-link.ae\n\n#trading #inventory #UAE #AbuDhabi #ERP",
+      "buffer_id": "6afbe938f83aaca8f3b0f1d9"
+    },
+    {
+      "date": "2026-11-20",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v8-trading-vo.mp4",
+      "kind": "video",
+      "title": "Stock in Excel, quotes in Word, invoices somewhere else?",
+      "text": "One system for trading — warehouse to invoice. demo.global-link.ae #trading #inventory #UAE #GlobalLink #business",
+      "buffer_id": "6afbe945797935b975e54306"
+    },
+    {
+      "date": "2026-11-21",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad10-arabic-iso.jpg",
+      "kind": "image",
+      "title": "النظام نفسه — بالعربية.",
+      "text": "نفس البوابة لفريقك بالعربية والإنجليزية بضغطة واحدة: تقارير يومية، مراجعة واعتماد، ورمز QR على كل ملف PDF.\n\nجرّب العرض التجريبي: demo.global-link.ae/qms\n\n#جلوبال_لينك #أبوظبي #الإمارات #ISO9001 #برمجيات #GlobalLink #UAE",
+      "buffer_id": "6afd3aaf93fa11d37d0cf1cf"
+    },
+    {
+      "date": "2026-11-21",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look2/a2-shipyard-ar.jpg",
+      "kind": "image",
+      "title": "التقرير اليومي، يُرفع من الحوض.",
+      "text": "التقرير اليومي، يُرفع من الحوض.\n\nدليل الجودة ISO 9001 كنظام: يُكتب على الهاتف في حوض بناء السفن، يراجعه زميل، يُصدر برمز PIN، ويُطبع على ترويسة الشركة مع رمز QR للتحقق.\n\n37 نموذجاً · مراجعة نظير 100٪ · 59 تقريراً. نسخة حية ببيانات نموذجية: demo.global-link.ae/qms",
+      "buffer_id": "6afd3abbf38e9cc54867cf22"
+    },
+    {
+      "date": "2026-11-21",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v9-arabic-hr-vo.mp4",
+      "kind": "video",
+      "title": "ما زالت الرواتب على جداول إكسل؟",
+      "text": "الحضور، الإجازات، قسائم الرواتب وملف WPS — في مكان واحد. demo.global-link.ae #الإمارات #الرواتب #أبوظبي #GlobalLink #UAE",
+      "buffer_id": "6afd3ac59f3765f6ab34fd7a"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "instagram",
+      "status": "scheduled",
+      "buffer_id": "6afe8c2f59eff0b616e303b6",
+      "asset": "look2/n2-100.jpg",
+      "kind": "image",
+      "title": "100 % of reports peer reviewed before release",
+      "text": "100 % of reports peer reviewed before release.\n\nA marine consultancy’s ISO 9001 manual became its system: 37 forms, each written, checked by a second person and released with a PIN. The auditor sees every step.\n\n#ISO9001 #quality #UAE #AbuDhabi #marine"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "buffer_id": "6afe8c3846636f319e8e8421",
+      "asset": "look3/ad11-wps-phone.jpg",
+      "kind": "image",
+      "title": "Salaries transferred. Payslip on the phone.",
+      "text": "WPS file generated, bank paid, every employee notified — no printing, no queue at HR.\n\nOne portal for 50–650 employees, in English and Arabic. demo.global-link.ae\n\n#payroll #WPS #HR #UAE #AbuDhabi"
+    },
+    {
+      "date": "2026-11-22",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "buffer_id": "6afe8c4846636f319e8e874a",
+      "asset": "look3/v4-hr-vo.mp4",
+      "kind": "video",
+      "title": "Your company. Its own portal.",
+      "text": "Attendance, leave, payslips, WPS — one place, English & Arabic. demo.global-link.ae #HR #payroll #UAE #GlobalLink #WPS"
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad9-nursery-parents.jpg",
+      "kind": "image",
+      "title": "Parents asking “how was her day?” Show them. Daily.",
+      "text": "Daily records, photos, policies signed on the phone, attendance and fees — one app for staff, one for parents.\n\ndemo.global-link.ae\n\n#GlobalLink #nursery #EYFS #parents #AbuDhabi #UAE #childcare",
+      "buffer_id": "6affdd9a0f5eda1a57c53043"
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look3/ad1-3d-payroll.jpg",
+      "kind": "image",
+      "title": "Built your payroll for 20 staff. Now you’re at 200?",
+      "text": "The spreadsheet that worked at 20 people breaks at 200. One system for people, payroll and invoices that grows with the team — Arabic and English, WPS-ready, and yours to own.\n\nSample-data demo: demo.global-link.ae\n\n#payroll #HR #scaleup #UAE #AbuDhabi",
+      "buffer_id": "6affdda30f5eda1a57c532a5"
+    },
+    {
+      "date": "2026-11-23",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v5-qms-vo.mp4",
+      "kind": "video",
+      "title": "Auditors love it.",
+      "text": "Peer reviewed, released with a PIN, QR on every PDF. demo.global-link.ae/qms #ISO9001 #audit #quality #UAE #GlobalLink",
+      "buffer_id": "6affddabd5f8acdd0d74e2fa"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look3/ad7-trading-stock.jpg",
+      "kind": "image",
+      "title": "Stock in Excel. Quotes in Word? One system for trading.",
+      "text": "Products, stock, quotes, installation jobs and AMC renewals — from the warehouse floor to the invoice.\n\ndemo.global-link.ae\n\n#GlobalLink #trading #inventory #LED #UAE #AbuDhabi #Dubai",
+      "buffer_id": "6b012f115e993799d854f494"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look2/n3-2.jpg",
+      "kind": "image",
+      "title": "2 languages on every screen and every PDF.",
+      "text": "2 languages on every screen and every PDF.\n\nArabic and English are not a translation added later. Every screen, payslip, invoice, quality form and notification is built right-to-left ready from day one, because that is how businesses in the UAE actually work.\n\nTry it in Arabic: demo.global-link.ae",
+      "buffer_id": "6b012f185102766245fba064"
+    },
+    {
+      "date": "2026-11-24",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "look3/v6-field-vo.mp4",
+      "kind": "video",
+      "title": "The office sees it live.",
+      "text": "Jobs, on the way, paid, invoiced — from the team lead’s pocket. demo.global-link.ae #fieldservice #cleaning #UAE #GlobalLink #business",
+      "buffer_id": "6b012f1fd9cbb430a1210632"
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "look2/c1-iso-1.jpg",
+      "kind": "carousel",
+      "title": "Your ISO 9001 manual as a system: 5 things that change",
+      "text": "Your ISO 9001 manual as a system: 5 things that change. Swipe →\n\n#ISO9001 #quality #UAE #AbuDhabi #consultancy",
+      "assets": [
+        "look2/c1-iso-1.jpg",
+        "look2/c1-iso-2.jpg",
+        "look2/c1-iso-3.jpg",
+        "look2/c1-iso-4.jpg",
+        "look2/c1-iso-5.jpg",
+        "look2/c1-iso-6.jpg",
+        "look2/c1-iso-7.jpg"
+      ],
+      "buffer_id": "6b0280aac72676f5e906fa88"
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "look3/ad2-phone-checkin.jpg",
+      "kind": "image",
+      "title": "Site attendance, checked in from the gate.",
+      "text": "Geofenced check-in on the worker’s own phone. Timesheets fill themselves, and payroll starts from the truth, not from memory.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #attendance #payroll #UAE",
+      "buffer_id": "6b0280afd5eabfb8cc85a0d9"
+    },
+    {
+      "date": "2026-11-25",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "batch2/w1-website-vo.mp4",
+      "kind": "video",
+      "title": "Your website still says 2019?",
+      "text": "Arabic and English, built for the phone, enquiries straight to you. global-link.ae #website #UAE #AbuDhabi #smallbusiness #GlobalLink",
+      "batch": "batch2",
+      "buffer_id": "6b056235637ab97445e1d625"
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "eid55/p1-launch.jpg",
+      "kind": "image",
+      "text": "Celebrating 55 years of the Union with an offer for UAE businesses: 20% off any website or business portal booked by 10 December.\n\nArabic and English on every screen, delivered on your own hosting, with the source code.\n\nعرض عيد الاتحاد: خصم 20% على المواقع الإلكترونية وأنظمة الأعمال حتى 10 ديسمبر\n\nLive demos: demo.global-link.ae\n\n#EidAlEtihad #عيد_الاتحاد #UAE #AbuDhabi #GlobalLink",
+      "campaign": "eid55",
+      "buffer_id": "6b03d20fd5eabfb8cc0b056d"
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "eid55/p1-launch.jpg",
+      "kind": "image",
+      "text": "As the UAE marks 55 years since the Union, we're offering 20% off websites and business portals booked between 26 November and 10 December.\n\nHR and payroll, operations, ISO 9001 and nursery portals, and bilingual Arabic and English company websites. All delivered on your own hosting, with the source code and a training call.\n\nSee them live: demo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #smallbusiness",
+      "campaign": "eid55",
+      "buffer_id": "6b03d214d5eabfb8cc0b0785"
+    },
+    {
+      "date": "2026-11-26",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "eid55/p1-launch-tiktok.mp4",
+      "kind": "video",
+      "title": "Our Eid Al Etihad offer",
+      "text": "55 years of the Union. 20% off websites and business portals until 10 Dec. demo.global-link.ae #EidAlEtihad #عيد_الاتحاد #UAE",
+      "campaign": "eid55",
+      "buffer_id": "6b03d21a846b0ee907e7d7f9"
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "eid55/p2-family.jpg",
+      "kind": "image",
+      "text": "Many UAE companies began as a family business, and many still are.\n\nWe build the systems that help them grow: staff and payroll, jobs and invoices, customers and reports, in Arabic and English.\n\nOur Eid Al Etihad offer: 20% off until 10 December.\ndemo.global-link.ae\n\n#EidAlEtihad #عيد_الاتحاد #familybusiness #UAE #GlobalLink",
+      "campaign": "eid55",
+      "buffer_id": "6b067529d8874a038cf61cc1"
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "eid55/p2-family.jpg",
+      "kind": "image",
+      "text": "Many UAE companies began as a family business. As they grow, the spreadsheets and WhatsApp groups that worked for ten people stop working for fifty.\n\nWe replace them with one portal for staff, payroll, jobs, invoices and reports, in Arabic and English, on your own hosting.\n\nFor Eid Al Etihad: 20% off projects booked by 10 December. demo.global-link.ae\n\n#EidAlEtihad #familybusiness #UAE",
+      "campaign": "eid55",
+      "buffer_id": "6b06752d9cddd8483ab1138f"
+    },
+    {
+      "date": "2026-11-28",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "eid55/p2-family-tiktok.mp4",
+      "kind": "video",
+      "title": "Built for family businesses",
+      "text": "From family business to growing company: one system, Arabic and English. 20% off until 10 Dec. #EidAlEtihad #UAE",
+      "campaign": "eid55",
+      "buffer_id": "6b067534608549ccf26619ad"
+    },
+    {
+      "date": "2026-11-30",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "eid55/p3-commemoration.jpg",
+      "kind": "image",
+      "text": "On Commemoration Day, we remember with pride the sons of the UAE who gave their lives for the nation, and we stand with their families.\n\nنستذكر بكل فخر واعتزاز تضحيات شهداء الوطن\n\n#CommemorationDay #يوم_الشهيد",
+      "campaign": "eid55",
+      "time": "08:00"
+    },
+    {
+      "date": "2026-11-30",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "eid55/p3-commemoration.jpg",
+      "kind": "image",
+      "text": "On Commemoration Day, we remember with pride the sons of the UAE who gave their lives for the nation, and we stand with their families.\n\nنستذكر بكل فخر واعتزاز تضحيات شهداء الوطن\n\n#CommemorationDay #يوم_الشهيد",
+      "campaign": "eid55",
+      "time": "08:00"
+    },
+    {
+      "date": "2026-12-01",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "eid55/p4-eve.jpg",
+      "kind": "image",
+      "text": "Tomorrow the UAE celebrates 55 years of the Union. We're proud to build for the businesses that call this country home.\n\nOur Eid Al Etihad offer runs until 10 December.\n\n#EidAlEtihad #عيد_الاتحاد #UAE #AbuDhabi",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-01",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "eid55/p4-eve.jpg",
+      "kind": "image",
+      "text": "Tomorrow the UAE celebrates 55 years of the Union. From Abu Dhabi, we're proud to build for the companies that call this country home.\n\nOur Eid Al Etihad offer (20% off websites and portals) runs until 10 December.\n\n#EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-01",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "eid55/p4-eve-tiktok.mp4",
+      "kind": "video",
+      "title": "Eve of the 55th Eid Al Etihad",
+      "text": "Tomorrow, 55 years of the Union. #EidAlEtihad #عيد_الاتحاد #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-02",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "eid55/p5-greeting.jpg",
+      "kind": "image",
+      "text": "Happy 55th Eid Al Etihad to the people of the UAE and to everyone who calls this country home.\n\nكل عام والإمارات بخير\n\nFrom all of us at Global Link International, Abu Dhabi.\n\n#EidAlEtihad #عيد_الاتحاد #UAE",
+      "campaign": "eid55",
+      "time": "08:00"
+    },
+    {
+      "date": "2026-12-02",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "eid55/p5-greeting.jpg",
+      "kind": "image",
+      "text": "Happy 55th Eid Al Etihad to the people of the UAE and to everyone who calls this country home.\n\nكل عام والإمارات بخير\n\nFrom all of us at Global Link International, Abu Dhabi.\n\n#EidAlEtihad #عيد_الاتحاد #UAE",
+      "campaign": "eid55",
+      "time": "08:00"
+    },
+    {
+      "date": "2026-12-02",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "eid55/p5-greeting-tiktok.mp4",
+      "kind": "video",
+      "title": "Happy 55th Eid Al Etihad",
+      "text": "Happy 55th Eid Al Etihad to the people of the UAE and to everyone who calls this country home.\n\nكل عام والإمارات بخير\n\nFrom all of us at Global Link International, Abu Dhabi.\n\n#EidAlEtihad #عيد_الاتحاد #UAE",
+      "campaign": "eid55",
+      "time": "08:00"
+    },
+    {
+      "date": "2026-12-04",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "eid55/p6-december.jpg",
+      "kind": "image",
+      "text": "Start in December, go live in January.\n\nMost of our portals are ready in 2 to 3 weeks, in Arabic and English, on your own hosting.\n\nEid Al Etihad offer: 20% off, booked by 10 December.\ndemo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #GlobalLink #smallbusiness",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-04",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "eid55/p6-december.jpg",
+      "kind": "image",
+      "text": "Planning to fix HR, payroll or operations in the new year? Start in December and go live in January.\n\nMost portals are ready in 2 to 3 weeks: staff, payroll and the WPS file, jobs and invoices, ISO 9001 records, nursery and parent apps. Arabic and English, on your own hosting.\n\nEid Al Etihad offer: 20% off projects booked by 10 December. demo.global-link.ae\n\n#EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-04",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "eid55/p6-december-tiktok.mp4",
+      "kind": "video",
+      "title": "Start in December, go live in January",
+      "text": "Start in December, go live in January. 20% off until 10 Dec. demo.global-link.ae #EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-07",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "eid55/p7-4days.jpg",
+      "kind": "image",
+      "text": "4 days left. Our Eid Al Etihad offer, 20% off websites and business portals, ends Thursday 10 December.\n\nMessage us for a live demo.\ndemo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #GlobalLink",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-07",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "eid55/p7-4days.jpg",
+      "kind": "image",
+      "text": "Our Eid Al Etihad offer ends Thursday 10 December: 20% off websites and business portals for UAE companies. If you've been meaning to replace Excel and WhatsApp with one system, this is a good week to book a demo. demo.global-link.ae\n\n#EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-07",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "eid55/p7-4days-tiktok.mp4",
+      "kind": "video",
+      "title": "4 days left",
+      "text": "4 days left: 20% off, ends 10 Dec. #EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-10",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "eid55/p8-lastday.jpg",
+      "kind": "image",
+      "text": "Last day of our Eid Al Etihad offer: 20% off websites and business portals, booked today.\n\nThank you to everyone who reached out this month.\ndemo.global-link.ae\n\n#EidAlEtihad #UAE #AbuDhabi #GlobalLink",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-10",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "eid55/p8-lastday.jpg",
+      "kind": "image",
+      "text": "Today is the last day of our Eid Al Etihad offer: 20% off websites and business portals for projects booked by tonight. Thank you to everyone who reached out over the past two weeks. demo.global-link.ae\n\n#EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-12-10",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "eid55/p8-lastday-tiktok.mp4",
+      "kind": "video",
+      "title": "Last day of the offer",
+      "text": "Last day: 20% off websites and portals. #EidAlEtihad #UAE",
+      "campaign": "eid55"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "instagram",
+      "status": "scheduled",
+      "asset": "batch2/ad13-web-boutique.jpg",
+      "kind": "image",
+      "title": "Customers google you first.",
+      "text": "Customers check you online before they ever call. We build bilingual company websites — Arabic and English, phone-first, with enquiry forms that reach you directly. Designed, written and hosted on your own account.\n\nSee our work: global-link.ae\n\n#website #webdesign #UAE #AbuDhabi #smallbusiness #GlobalLink",
+      "batch": "batch2",
+      "buffer_id": "6b05626b637ab97445e1f6e8"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "linkedin",
+      "status": "scheduled",
+      "asset": "batch2/ad14-vat-return.jpg",
+      "kind": "image",
+      "title": "VAT return due Thursday? Ready by Monday.",
+      "text": "VAT returns shouldn’t be a last-week scramble. When sales, purchases and expenses are posted as they happen, the return builds itself — and every figure links back to the invoice behind it.\n\nBuilt for UAE businesses, in AED, in Arabic and English. Sample-data demo: demo.global-link.ae\n\n#VAT #UAE #accounting #finance #AbuDhabi",
+      "batch": "batch2",
+      "buffer_id": "6b05627168504a8e3a1b91eb"
+    },
+    {
+      "date": "2026-11-27",
+      "channel": "tiktok",
+      "status": "scheduled",
+      "asset": "batch2/w2-office-vo.mp4",
+      "kind": "video",
+      "title": "Six companies. Sixty cheques.",
+      "text": "The whole family office on one screen — companies, leases, cheques and VAT. Private, on your own server. global-link.ae #familyoffice #UAE #AbuDhabi #realestate #GlobalLink",
+      "batch": "batch2",
+      "buffer_id": "6b05626468504a8e3a1b8cce"
+    },
+    {
+      "date": "2026-12-05",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch2/ad15-geofence.jpg",
+      "kind": "image",
+      "title": "Clock-in only works inside the site fence.",
+      "text": "Workers check in on their own phone — but only when they are actually inside the site’s geofence. No buddy punching, no paper sheets, no extra hardware.\n\nBuilt for contractors and MEP companies. demo.global-link.ae\n\n#construction #MEP #UAE #AbuDhabi #attendance #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-05",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch2/ad16-utilization.jpg",
+      "kind": "image",
+      "title": "Which projects eat your hours? Know by Friday.",
+      "text": "Most companies find out which projects ate their hours at year end. Hours by worker, site and project can roll up on their own — so utilisation and cost per project are on screen every week, while you can still act.\n\nSample-data demo: demo.global-link.ae\n\n#projectmanagement #construction #utilisation #UAE #AbuDhabi",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-05",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch2/w3-vat-ar-vo.mp4",
+      "kind": "video",
+      "title": "إقرار الضريبة في آخر لحظة؟",
+      "text": "كل فاتورة في مكانها، والإقرار جاهز قبل الموعد. demo.global-link.ae #ضريبة_القيمة_المضافة #الإمارات #أبوظبي #محاسبة #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-06",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch2/ad17-learning.jpg",
+      "kind": "image",
+      "title": "Practice questions in every student’s pocket.",
+      "text": "Chapters, short notes and self-marking quizzes on the student’s own phone — and teachers see who needs help before the exam, not after. Your school’s own learning app, with your name on it.\n\nglobal-link.ae\n\n#edtech #school #learning #students #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-06",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch2/ad18-project-pl.jpg",
+      "kind": "image",
+      "title": "Profit by project, not just profit by year.",
+      "text": "A good year can hide three loss-making projects. When every invoice, cost and timesheet is tagged to its project, you see which jobs make money while there is still time to act.\n\nBuilt for consultancies and contractors. Sample-data demo: demo.global-link.ae/qms\n\n#projectmanagement #consulting #finance #UAE #AbuDhabi",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-06",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch2/w4-site-vo.mp4",
+      "kind": "video",
+      "title": "Who was really on site today?",
+      "text": "Check-in at the site gate, live headcount, timesheets that fill themselves. demo.global-link.ae #construction #MEP #UAE #payroll #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-08",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch2/ad19-parents-ar.jpg",
+      "kind": "image",
+      "title": "أولياء الأمور يوقّعون السياسات من الجوال",
+      "text": "تصل سياسات الحضانة ونماذجها لكل وليّ أمر بالعربية أو الإنجليزية، ويوقّعها من جواله — بدون ورق، ومع سجلّ كامل لكل توقيع.\n\ndemo.global-link.ae\n\n#حضانة #أبوظبي #الإمارات #EYFS #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-08",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch2/ad20-md-week.jpg",
+      "kind": "image",
+      "title": "The MD’s Monday question: what needs me this week?",
+      "text": "Pipeline, cash, late reports and open risks on one page — updated by the team during the week, read by the managing director in two minutes on Monday morning.\n\nSample-data demo: demo.global-link.ae/qms\n\n#leadership #management #projects #UAE #AbuDhabi",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-08",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch2/w5-learning-vo.mp4",
+      "kind": "video",
+      "title": "Exams coming. Notes everywhere.",
+      "text": "Your school’s own learning app — chapters, notes and self-marking quizzes. global-link.ae #edtech #school #students #learning #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-09",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch2/ad21-cheques.jpg",
+      "kind": "image",
+      "title": "Post-dated cheques, no more surprises.",
+      "text": "Every cheque in and out — by company, property and bank — with a reminder before it is due. Leases, renewals and VAT in the same place, private, on your own server.\n\nAsk for a private demo: global-link.ae\n\n#familyoffice #realestate #UAE #AbuDhabi #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-09",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch2/ad22-billed-hours.jpg",
+      "kind": "image",
+      "title": "Every hour your team worked — billed?",
+      "text": "For manpower and MEP companies, unbilled hours are the quietest leak. When timesheets turn into client invoices in a click, nothing slips between site and accounts.\n\nSample-data demo: demo.global-link.ae\n\n#manpower #MEP #invoicing #UAE #AbuDhabi",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-09",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch2/w6-md-vo.mp4",
+      "kind": "video",
+      "title": "Twenty projects. One surprise loss.",
+      "text": "Pipeline, profit by project and today’s risks — on one dashboard. demo.global-link.ae/qms #projects #management #UAE #business #GlobalLink",
+      "batch": "batch2"
+    },
+    {
+      "date": "2026-12-11",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i01-ncr-phone.jpg",
+      "kind": "image",
+      "title": "Spot it, snap it, fix it.",
+      "text": "Spot it, snap it, fix it. Non-conformities raised from the phone with a photo, assigned to the right person and tracked until they are closed with sign-off.\n\ndemo.global-link.ae/qms\n\n#ISO9001 #QHSE #quality #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-11",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l01-ncr-cost.jpg",
+      "kind": "image",
+      "title": "Every NCR left open is a finding waiting for your auditor.",
+      "text": "Every non-conformity left open is a finding waiting for your auditor. When the NCR, root cause, corrective action and sign-off live in one place, nothing slips between site and office.\n\nSample-data QMS demo: demo.global-link.ae/qms\n\n#ISO9001 #quality #QHSE #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-11",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r01-ncr.mp4",
+      "kind": "video",
+      "title": "A problem on site at 4 pm.",
+      "text": "NCR raised from the phone, corrective action tracked, closed with sign-off. demo.global-link.ae/qms #ISO9001 #quality #QHSE #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-12",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i02-nursery-ratio.jpg",
+      "kind": "image",
+      "title": "Room 2 is one teacher short. Know before 8 am.",
+      "text": "Staff clock in on arrival and ratios are checked room by room — so you know about cover before the first child walks in.\n\ndemo.global-link.ae\n\n#nursery #EYFS #childcare #AbuDhabi #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-12",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l02-ratios.jpg",
+      "kind": "image",
+      "title": "Ratios are not a spreadsheet problem. They are an 8 am problem.",
+      "text": "Ratios are not a spreadsheet problem — they are an 8 am problem. When staff clock in on arrival, every room is checked before the first child walks in, and cover is arranged early.\n\ndemo.global-link.ae\n\n#nursery #earlyyears #EYFS #AbuDhabi #UAE",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-12",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r02-nursery-staff.mp4",
+      "kind": "video",
+      "title": "Staff rota on paper?",
+      "text": "Nursery staff clock in on their phone; ratios by room; payroll from real hours. demo.global-link.ae #nursery #EYFS #AbuDhabi #childcare #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-13",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i03-install-van.jpg",
+      "kind": "image",
+      "title": "Every installation, on one timeline.",
+      "text": "Order, delivery, installation, hand-over and warranty — one timeline for every job, visible to the office and the client.\n\ndemo.global-link.ae\n\n#installation #trading #LED #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-13",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l03-after-sales.jpg",
+      "kind": "image",
+      "title": "The sale is the start of the relationship, not the end.",
+      "text": "For trading and installation companies, the sale is the start of the relationship. When installation, hand-over, warranty and service visits sit on one timeline, renewals and repeat orders stop slipping away.\n\ndemo.global-link.ae\n\n#trading #installation #aftersales #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-13",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r03-install.mp4",
+      "kind": "video",
+      "title": "Sold on Monday. Installed when?",
+      "text": "From the signed quote to installation and after-sales service — one timeline. demo.global-link.ae #installation #LED #trading #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-14",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i04-crew-payroll.jpg",
+      "kind": "image",
+      "title": "Crew payroll, straight from the jobs.",
+      "text": "Every job a crew finishes counts toward their pay — no timesheets to chase and no disputes on payday.\n\ndemo.global-link.ae\n\n#cleaning #facilitymanagement #payroll #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-14",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l04-profit-per-job.jpg",
+      "kind": "image",
+      "title": "Revenue tells you you were busy. Profit per job tells you whether it was worth it.",
+      "text": "Revenue tells you that you were busy. Profit per job tells you whether it was worth it. Tie bookings, crew cost and invoices to each job and the answer is on screen every day.\n\ndemo.global-link.ae\n\n#facilitymanagement #services #profitability #UAE #smallbusiness",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-14",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r04-cleaning-profit.mp4",
+      "kind": "video",
+      "title": "Busy every day. Profit?",
+      "text": "Bookings, crews, payroll and profit per job — every day. demo.global-link.ae #cleaning #facilitymanagement #UAE #smallbusiness #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-15",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i05-doc-control.jpg",
+      "kind": "image",
+      "title": "Revision 3? Found in seconds.",
+      "text": "Current revision, approver and history for every controlled document — found in seconds when the auditor asks.\n\ndemo.global-link.ae/qms\n\n#ISO9001 #documentcontrol #audit #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-15",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l05-doc-control.jpg",
+      "kind": "image",
+      "title": "If finding the current revision takes ten minutes, your document control is a risk.",
+      "text": "If finding the current revision of a procedure takes ten minutes, document control is a risk, not a process. A controlled registry shows revision, approver and history in seconds — and audit day becomes routine.\n\ndemo.global-link.ae/qms\n\n#ISO9001 #documentcontrol #audit #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-15",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r05-audit-docs.mp4",
+      "kind": "video",
+      "title": "The auditor asks for revision 3.",
+      "text": "Document control, internal audits and quality reports — audit day without panic. demo.global-link.ae/qms #ISO9001 #audit #documentcontrol #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-16",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i06-payslip-phone.jpg",
+      "kind": "image",
+      "title": "Payslip day, no queue.",
+      "text": "Every worker opens their own payslip on their phone, in Arabic or English, with hours, leave and deductions explained. No queue at the HR window.\n\ndemo.global-link.ae\n\n#payroll #WPS #construction #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-16",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l06-payslip-trust.jpg",
+      "kind": "image",
+      "title": "Most payroll questions are really “I can’t see how this was calculated.”",
+      "text": "Most payroll questions are really “I can’t see how this was calculated.” Payslips on the phone, with hours, leave and deductions explained in Arabic or English, cut those questions to almost zero.\n\ndemo.global-link.ae\n\n#payroll #HR #WPS #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-16",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r06-payslips.mp4",
+      "kind": "video",
+      "title": "Payday queue at HR?",
+      "text": "Payslips on every worker’s phone, WPS file ready for the bank. demo.global-link.ae #payroll #WPS #HR #construction #UAE",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-17",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i07-quiz-phone.jpg",
+      "kind": "image",
+      "title": "Homework that marks itself.",
+      "text": "Practice questions and quizzes on the student’s phone, marked instantly — and teachers see the weak topics the next morning.\n\nglobal-link.ae\n\n#edtech #school #students #teachers #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-17",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l07-learning-gap.jpg",
+      "kind": "image",
+      "title": "Most learning gaps are visible weeks before the exam — if you measure them.",
+      "text": "Most learning gaps are visible weeks before the exam — if you measure them. Self-marking practice and quizzes show each class’s weak topics while there is still time to teach them again.\n\nglobal-link.ae\n\n#education #edtech #schools #teachers #learning",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-17",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r07-quiz.mp4",
+      "kind": "video",
+      "title": "Thirty students. One teacher.",
+      "text": "Practice, self-marking quizzes and ask-the-teacher — your school’s own app. global-link.ae #edtech #school #teachers #students #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-18",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i08-arabic-day.jpg",
+      "kind": "image",
+      "title": "يوم اللغة العربية العربية في كل شاشة.",
+      "text": "في يوم اللغة العربية: نبني أنظمة الأعمال بالعربية في كل شاشة وكل تقرير، من اليمين إلى اليسار، وبالإنجليزية أيضاً.\n\ndemo.global-link.ae\n\n#يوم_اللغة_العربية #الإمارات #أبوظبي #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-18",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l08-arabic-day.jpg",
+      "kind": "image",
+      "title": "نبني أنظمة الأعمال بالعربية من اليوم الأول.",
+      "text": "في يوم اللغة العربية: نبني أنظمة الأعمال بالعربية من اليوم الأول — كل شاشة وكل تقرير من اليمين إلى اليسار، مع الإنجليزية، لأن هذه هي طريقة العمل في الإمارات.\n\ndemo.global-link.ae\n\n#يوم_اللغة_العربية #الإمارات #أبوظبي #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-18",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r08-arabic-day-ar.mp4",
+      "kind": "video",
+      "title": "يوم اللغة العربية",
+      "text": "في يوم اللغة العربية: أنظمة أعمال بالعربية في كل شاشة وكل تقرير. demo.global-link.ae #يوم_اللغة_العربية #الإمارات #أبوظبي #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-19",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i09-marine-site.jpg",
+      "kind": "image",
+      "title": "Clients judge your fleet by your website.",
+      "text": "Clients judge your fleet by your website. Vessel pages, services and enquiries in English and Arabic — a site as serious as the work you do.\n\nglobal-link.ae\n\n#marine #offshore #website #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-19",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l09-b2b-website.jpg",
+      "kind": "image",
+      "title": "Your next client will read your website before they read your proposal.",
+      "text": "Your next client will read your website before they read your proposal. For marine, engineering and industrial firms, a clear bilingual site with real projects and services shortens every sales cycle.\n\nglobal-link.ae\n\n#B2B #marine #engineering #website #UAE",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-19",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r09-marine-web.mp4",
+      "kind": "video",
+      "title": "World-class vessels. Your website?",
+      "text": "Company websites for marine, engineering and industrial firms — vessels, services, enquiries. global-link.ae #marine #shipbuilding #offshore #website #UAE",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-20",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i10-daily-qr.jpg",
+      "kind": "image",
+      "title": "A daily report the client can verify.",
+      "text": "Filed once from site, sent as a clean PDF with a QR code the client can scan to verify it.\n\ndemo.global-link.ae/qms\n\n#projects #construction #reports #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-20",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l10-reporting.jpg",
+      "kind": "image",
+      "title": "A report retyped at night is a report that arrives late — and with errors.",
+      "text": "A report retyped at night arrives late and with errors. Filed once from site and sent as a verified PDF, it reaches the client the same day — and the team gets its evening back.\n\ndemo.global-link.ae/qms\n\n#projectmanagement #construction #reporting #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-20",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r10-daily-pdf.mp4",
+      "kind": "video",
+      "title": "Daily reports typed at 9 pm?",
+      "text": "Daily reports filed from site, sent as a PDF with a QR the client can verify. demo.global-link.ae/qms #construction #projects #marine #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-21",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i11-licence-renewal.jpg",
+      "kind": "image",
+      "title": "Trade licence expires in 30 days.",
+      "text": "Every company, licence and key document, with reminders before anything expires — private, on your own server.\n\nglobal-link.ae\n\n#familyoffice #compliance #UAE #AbuDhabi #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-21",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l11-renewals.jpg",
+      "kind": "image",
+      "title": "The costliest renewal is the one nobody noticed.",
+      "text": "The costliest renewal is the one nobody noticed. Licences, leases and documents for every entity in one private system, with reminders well before anything expires.\n\nglobal-link.ae\n\n#familyoffice #compliance #governance #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-21",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r11-office-payroll.mp4",
+      "kind": "video",
+      "title": "Five companies. One payroll day.",
+      "text": "Company records, licence renewals and payroll by entity — private, on your own server. global-link.ae #familyoffice #payroll #UAE #AbuDhabi #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-22",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i12-led-site.jpg",
+      "kind": "image",
+      "title": "Your best projects, in their pocket.",
+      "text": "A project-led website, fast on every phone — so every installation you are proud of brings the next enquiry.\n\nglobal-link.ae\n\n#LED #signage #website #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-22",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l12-project-site.jpg",
+      "kind": "image",
+      "title": "Your finished projects are your best salespeople. Are they on your website?",
+      "text": "Your finished projects are your best salespeople — if clients can see them. A project-led website turns landmark work into the next enquiry, in English and Arabic.\n\nglobal-link.ae\n\n#marketing #construction #signage #website #UAE",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-22",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r12-led-web.mp4",
+      "kind": "video",
+      "title": "You light up the city.",
+      "text": "A project-led website for an LED display company — landmarks, day/night views, enquiries. global-link.ae #LED #digitalsignage #website #UAE #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-23",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i13-new-year.jpg",
+      "kind": "image",
+      "title": "Book in December, live in January.",
+      "text": "Most portals go live in 2 to 3 weeks. Book in December and start 2027 with HR, payroll, operations and quality on one system.\n\ndemo.global-link.ae\n\n#2027 #business #UAE #AbuDhabi #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-23",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l13-plan-2027.jpg",
+      "kind": "image",
+      "title": "The best time to replace spreadsheets is before the new year’s first payroll.",
+      "text": "The best time to replace spreadsheets is before the new year’s first payroll. Most of our portals go live in 2 to 3 weeks — book in December and start 2027 on one system.\n\ndemo.global-link.ae\n\n#planning #2027 #operations #UAE #AbuDhabi",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-23",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r13-year-end.mp4",
+      "kind": "video",
+      "title": "New year. Same spreadsheets?",
+      "text": "Start 2027 on one system — HR, payroll, operations, quality. Most portals live in 2–3 weeks. demo.global-link.ae #2027 #business #UAE #AbuDhabi #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-24",
+      "channel": "instagram",
+      "status": "todo",
+      "asset": "batch3/i14-tablet-door.jpg",
+      "kind": "image",
+      "title": "The register is on the tablet.",
+      "text": "Each room checks children in and out on its own tablet, with a PIN and photo — and parents are notified straight away.\n\ndemo.global-link.ae\n\n#nursery #childcare #parents #AbuDhabi #GlobalLink",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-24",
+      "channel": "linkedin",
+      "status": "todo",
+      "asset": "batch3/l14-safeguarding.jpg",
+      "kind": "image",
+      "title": "A paper register is a safeguarding record. Treat it like one.",
+      "text": "A paper register is a safeguarding record — so treat it like one. Tablet check-in with PIN and photo gives every arrival and collection a time, a name and a witness, and parents are notified straight away.\n\ndemo.global-link.ae\n\n#nursery #safeguarding #earlyyears #AbuDhabi #UAE",
+      "batch": "batch3"
+    },
+    {
+      "date": "2026-12-24",
+      "channel": "tiktok",
+      "status": "todo",
+      "asset": "batch3/r14-tablet-signin.mp4",
+      "kind": "video",
+      "title": "Morning drop-off. Who signed in?",
+      "text": "Room tablets for check-in/out, parents notified, a live register of every child. demo.global-link.ae #nursery #childcare #AbuDhabi #EYFS #GlobalLink",
+      "batch": "batch3"
+    }
+  ]
 }
