@@ -462,22 +462,24 @@
   {
    "date": "2026-11-30",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p3-commemoration.jpg",
    "kind": "image",
    "text": "On Commemoration Day, we remember with pride the sons of the UAE who gave their lives for the nation, and we stand with their families.\n\nنستذكر بكل فخر واعتزاز تضحيات شهداء الوطن\n\n#CommemorationDay #يوم_الشهيد",
    "campaign": "eid55",
-   "time": "08:00"
+   "time": "08:00",
+   "buffer_id": "6b09184b049983dcfb8f9f54"
   },
   {
    "date": "2026-11-30",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p3-commemoration.jpg",
    "kind": "image",
    "text": "On Commemoration Day, we remember with pride the sons of the UAE who gave their lives for the nation, and we stand with their families.\n\nنستذكر بكل فخر واعتزاز تضحيات شهداء الوطن\n\n#CommemorationDay #يوم_الشهيد",
    "campaign": "eid55",
-   "time": "08:00"
+   "time": "08:00",
+   "buffer_id": "6b091851049983dcfb8fa19f"
   },
   {
    "date": "2026-12-01",
