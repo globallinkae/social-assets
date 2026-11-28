@@ -484,30 +484,33 @@
   {
    "date": "2026-12-01",
    "channel": "instagram",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p4-eve.jpg",
    "kind": "image",
    "text": "Tomorrow the UAE celebrates 55 years of the Union. We're proud to build for the businesses that call this country home.\n\nOur Eid Al Etihad offer runs until 10 December.\n\n#EidAlEtihad #عيد_الاتحاد #UAE #AbuDhabi",
-   "campaign": "eid55"
+   "campaign": "eid55",
+   "buffer_id": "6b0a699d2a2e4f66ca0211f5"
   },
   {
    "date": "2026-12-01",
    "channel": "linkedin",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p4-eve.jpg",
    "kind": "image",
    "text": "Tomorrow the UAE celebrates 55 years of the Union. From Abu Dhabi, we're proud to build for the companies that call this country home.\n\nOur Eid Al Etihad offer (20% off websites and portals) runs until 10 December.\n\n#EidAlEtihad #UAE",
-   "campaign": "eid55"
+   "campaign": "eid55",
+   "buffer_id": "6b0a69a441454797eaf3bdba"
   },
   {
    "date": "2026-12-01",
    "channel": "tiktok",
-   "status": "todo",
+   "status": "scheduled",
    "asset": "eid55/p4-eve-tiktok.mp4",
    "kind": "video",
    "title": "Eve of the 55th Eid Al Etihad",
    "text": "Tomorrow, 55 years of the Union. #EidAlEtihad #عيد_الاتحاد #UAE",
-   "campaign": "eid55"
+   "campaign": "eid55",
+   "buffer_id": "6b0a69a9eada83daa6cb65cd"
   },
   {
    "date": "2026-12-02",
